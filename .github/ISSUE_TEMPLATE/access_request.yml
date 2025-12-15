@@ -1,0 +1,65 @@
+name: Access request
+description: Request access to SciNetX distribution (gated).
+title: "[Access] <your organization / affiliation>"
+labels: ["access-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        SciNetX is distributed under a gated, source-available model.
+        This public repo does not contain the implementation code.
+        Use this form to request access via the institution portal or to request a source snapshot under license.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: Jane Doe
+    validations:
+      required: true
+  - type: input
+    id: affiliation
+    attributes:
+      label: Affiliation / organization
+      placeholder: University / company / nonprofit
+    validations:
+      required: true
+  - type: dropdown
+    id: use_type
+    attributes:
+      label: Intended use type
+      options:
+        - Academic/nonprofit (non-commercial)
+        - Commercial
+        - Not sure (please explain below)
+    validations:
+      required: true
+  - type: textarea
+    id: intended_use
+    attributes:
+      label: Intended use (brief)
+      description: What are you trying to do with SciNetX (internal analysis, deployment, redistribution, hosted service, etc.)?
+      placeholder: Short description
+    validations:
+      required: true
+  - type: textarea
+    id: distribution
+    attributes:
+      label: What do you need?
+      description: Check what you need and add details.
+      value: |
+        - [ ] Desktop bundle (macOS/Windows)
+        - [ ] Docker image (registry access)
+        - [ ] Source snapshot zip (on request)
+        - [ ] Colab notebook guidance
+  - type: input
+    id: email
+    attributes:
+      label: Contact email
+      placeholder: name@domain.edu
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        Maintainer contact: michael.david@cuanschutz.edu
+

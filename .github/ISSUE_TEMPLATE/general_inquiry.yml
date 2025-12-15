@@ -1,0 +1,20 @@
+name: General inquiry
+description: Ask a question about SciNetX capabilities, outputs, or licensing.
+title: "[Question] "
+labels: ["question"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: Please avoid including sensitive data.
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact email (optional)
+      placeholder: name@domain.edu
+    validations:
+      required: false
+

@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security report (private)
+    url: mailto:michael.david@cuanschutz.edu
+    about: "Do not post vulnerabilities publicly. Email the maintainer."
+  - name: Access requests
+    url: ../REQUEST_ACCESS.md
+    about: "How to request access via the gated distribution channel."
+
