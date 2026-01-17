@@ -10,6 +10,14 @@ body:
       description: Please avoid including sensitive data.
     validations:
       required: true
+  - type: markdown
+    attributes:
+      value: |
+        Suggested title format: `[Question] <short summary>`
+
+        For access requests and support routing, see:
+        - https://github.com/madavid128/SciNetX-Public/blob/main/REQUEST_ACCESS.md
+        - https://github.com/madavid128/SciNetX-Public/blob/main/SUPPORT.md
   - type: input
     id: contact
     attributes:

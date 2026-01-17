@@ -1,7 +1,3 @@
----
-title: FAQ
----
-
 # FAQ
 
 ## Is the source code public?

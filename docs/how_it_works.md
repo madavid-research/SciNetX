@@ -1,7 +1,3 @@
----
-title: How SciNetX Works
----
-
 # How SciNetX works
 
 SciNetX has two phases:

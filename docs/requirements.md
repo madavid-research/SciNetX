@@ -1,7 +1,3 @@
----
-title: Requirements
----
-
 # Requirements
 
 SciNetX is distributed to licensed users via an institution portal. Requirements depend on which artifact you receive.

@@ -1,8 +1,4 @@
----
-title: Releases
----
-
-# Releases (institution portal)
+# Releases
 
 SciNetX releases are distributed to licensed users via an institution portal.
 

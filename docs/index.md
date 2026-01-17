@@ -1,8 +1,4 @@
----
-title: SciNetX
----
-
-# SciNetX (Public Overview)
+# SciNetX
 
 This repository is a public landing page for SciNetX.
 
@@ -12,6 +8,7 @@ For access requests, see [REQUEST_ACCESS.md](https://github.com/madavid128/SciNe
 
 ## Start here
 - How it works: [how_it_works.md](how_it_works.md)
+- Architecture overview: [architecture_overview.md](architecture_overview.md)
 - What SciNetX outputs look like: [output_schema.md](output_schema.md)
 - Sample output (sanitized preview): [sample_output/](sample_output/)
 - Requirements by artifact type: [requirements.md](requirements.md)
@@ -19,10 +16,14 @@ For access requests, see [REQUEST_ACCESS.md](https://github.com/madavid128/SciNe
 - Licensing summary: [licensing.md](licensing.md)
 - Releases (gated portal): [releases.md](releases.md)
 - CI & releases (public): [ci_and_releases.md](ci_and_releases.md)
+- Release process (public): [release_process.md](release_process.md)
 - Versioning/build identifiers: [versioning.md](versioning.md)
 - Redaction guide: [redaction_guide.md](redaction_guide.md)
 - Screenshots: [screenshots.md](screenshots.md)
+- Press & references: [press_and_references.md](press_and_references.md)
 - Contact: [contact.md](contact.md)
+- Docs index: [navigation.md](navigation.md)
+- Governance: [governance.md](governance.md)
 
 ## Access requests
 - Request access: https://github.com/madavid128/SciNetX-Public/issues/new?template=access_request.yml

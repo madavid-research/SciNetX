@@ -1,10 +1,6 @@
----
-title: Licensing
----
+# Licensing
 
-# Licensing (summary)
-
-SciNetX is **source-available** and intended for **gated distribution**.
+SciNetX is **source-available** and intended for **gated distribution**. This page provides a short licensing summary for the public landing repository.
 
 ## Academic/nonprofit (non-commercial)
 Academic/nonprofit non-commercial use is permitted under the SciNetX source-available license provided to licensed users with the distribution.

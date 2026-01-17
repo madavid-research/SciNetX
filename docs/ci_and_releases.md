@@ -1,8 +1,4 @@
----
-title: CI & Releases
----
-
-# CI & releases (public)
+# CI & releases
 
 This public repository does not build or publish SciNetX artifacts.
 

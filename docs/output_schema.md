@@ -1,7 +1,3 @@
----
-title: Output Schema
----
-
 # Output schema (`output/`)
 
 SciNetX produces a filesystem workspace. The UI points at the workspace root (“Data root”) and reads these subfolders:

@@ -10,6 +10,8 @@ body:
         Licensed users with access to the private distribution should prefer the licensed support channel.
         Please redact sensitive data from logs/screenshots before posting.
         Redaction guidance: https://github.com/madavid128/SciNetX-Public/blob/main/docs/redaction_guide.md
+        Support routing: https://github.com/madavid128/SciNetX-Public/blob/main/SUPPORT.md
+        Suggested title format: `[Bug] <short summary>`
   - type: input
     id: version
     attributes:

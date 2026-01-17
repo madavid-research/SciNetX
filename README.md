@@ -6,6 +6,10 @@ SciNetX is a bibliometric + network analysis pipeline and UI intended for gated 
 
 This public repository is a landing page only. The source code and release artifacts are shared with licensed users via an institution portal.
 
+## Scope
+This repository accepts documentation improvements and public-facing onboarding updates.
+Implementation issues and build questions should be handled through the licensed support channel.
+
 ## What’s in this repo
 - Public overview documentation (`docs/`)
 - Access request entry point (`REQUEST_ACCESS.md` + GitHub issue templates)
@@ -22,9 +26,6 @@ This public repository is a landing page only. The source code and release artif
 1) Run the pipeline once to produce an `output/` workspace (tables/figures/networks/report).
 2) Open the UI (desktop app or Docker) and point it at that `output/` folder (“Data root”).
 3) Explore, export, and share results (CSV tables and network exports).
-
-## Public preview (no gated artifacts)
-See a tiny, fabricated example workspace layout at [docs/sample_output/](docs/sample_output/).
 
 ## Quickstart
 ### Public (this repo)
@@ -55,6 +56,8 @@ This repo does not include implementation code, but bug reports against distribu
 - Compatibility: [docs/compatibility.md](docs/compatibility.md)
 - Glossary: [docs/glossary.md](docs/glossary.md)
 - Known issues: [docs/known_issues.md](docs/known_issues.md)
+- Press & references: [docs/press_and_references.md](docs/press_and_references.md)
+- Media kit (logos): [docs/img/](docs/img/)
 - Licensing (summary): [docs/licensing.md](docs/licensing.md)
 - Releases (gated portal): [docs/releases.md](docs/releases.md)
 - Sample output (sanitized preview): [docs/sample_output/](docs/sample_output/)

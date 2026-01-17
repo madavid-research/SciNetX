@@ -1,6 +1,6 @@
 name: Access request
 description: Request access to SciNetX distribution (gated).
-title: "[Access] <your organization / affiliation>"
+title: "[Access] <organization / affiliation>"
 labels: ["access-request"]
 body:
   - type: markdown
@@ -9,6 +9,7 @@ body:
         SciNetX is distributed under a gated, source-available model.
         This public repo does not contain the implementation code.
         Use this form to request access via the institution portal or to request a source snapshot under license.
+        Suggested title format: `[Access] <organization / affiliation>`
   - type: input
     id: name
     attributes:
@@ -30,14 +31,14 @@ body:
       options:
         - Academic/nonprofit (non-commercial)
         - Commercial
-        - Not sure (please explain below)
+        - Not sure (explain below)
     validations:
       required: true
   - type: textarea
     id: intended_use
     attributes:
       label: Intended use (brief)
-      description: What are you trying to do with SciNetX (internal analysis, deployment, redistribution, hosted service, etc.)?
+      description: Intended use (internal analysis, deployment, redistribution, hosted service, etc.).
       placeholder: Short description
     validations:
       required: true

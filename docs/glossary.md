@@ -1,7 +1,3 @@
----
-title: Glossary
----
-
 # Glossary
 
 ## `output/` workspace
@@ -18,4 +14,3 @@ A version string, portal release identifier, or Docker image digest that uniquel
 
 ## Source snapshot
 A zipped copy of the SciNetX implementation source code provided to licensed users under the applicable license.
-

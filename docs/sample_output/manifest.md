@@ -1,7 +1,3 @@
----
-title: Sample Output Manifest
----
-
 # Sample output manifest
 
 This manifest describes the fabricated sample workspace under `docs/sample_output/output/`.
@@ -18,4 +14,3 @@ This manifest describes the fabricated sample workspace under `docs/sample_outpu
 
 ## `output/networks/`
 - `README.md`: placeholder note describing typical real outputs
-

@@ -29,6 +29,13 @@ This public repository is a landing page only. The SciNetX implementation source
 - Keep the public repo free of restricted data (datasets, internal URLs, registry endpoints, credentials).
 - Run the link check before submitting: `python scripts/check_markdown_links.py`.
 
+## Docs style (lightweight)
+- Use a single top-level `#` heading per file.
+- Use sentence case for headings where possible.
+- Keep paragraphs short and scannable (prefer bullets for checklists).
+- Avoid adding screenshots unless fully sanitized and approved for public release.
+- Avoid internal URLs and institution-specific portal/registry details.
+
 ## Support and access
 - Access requests: use the “Access request” issue template or `REQUEST_ACCESS.md`.
 - Security issues: do not post publicly; see `SECURITY.md`.

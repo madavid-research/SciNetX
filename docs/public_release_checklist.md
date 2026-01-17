@@ -1,7 +1,3 @@
----
-title: Public Release Checklist
----
-
 # Public release checklist
 
 Use this checklist before making the repository public.
@@ -20,3 +16,20 @@ Use this checklist before making the repository public.
 - Configure default branch protections as desired.
 - Optionally enable GitHub Pages (recommended after public): Settings → Pages → `main` /docs.
 
+## Go-live settings (manual)
+Apply these settings in the GitHub repository UI after the repository is public.
+
+- Set **Social preview** image (Settings → Social preview) to `docs/img/SciNetX_logo_wordmark_below_square_1024.png`.
+- Confirm **About** panel:
+  - Description: “Public landing page and access request entry point for SciNetX (gated distribution).”
+  - Topics: `bibliometrics`, `scientometrics`, `network-analysis`, `pubmed`, `openalex`
+- Create standard **labels** used by issue templates and triage (see [docs/labels.md](labels.md)).
+- Decide whether to enable **Discussions** (Settings → General → Features → Discussions).
+- Create a lightweight **docs snapshot tag/release** in this repo (optional, for stable citations of the landing docs):
+  - Create a tag like `landing-v0.1` (or similar) and a GitHub Release with a short note.
+  - Avoid implying this is a SciNetX implementation release (gated artifacts are separate).
+
+## Citation metadata (manual)
+When the manuscript is published, update [CITATION.cff](../CITATION.cff) with:
+- `doi` (if available) and `date-released`
+- preferred citation text for the paper (if the journal requires a specific format)

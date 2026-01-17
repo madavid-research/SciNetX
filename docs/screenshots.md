@@ -1,7 +1,3 @@
----
-title: Screenshots
----
-
 # Screenshots
 
 Screenshots are not included in this public landing repository yet.

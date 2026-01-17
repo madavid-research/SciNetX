@@ -13,8 +13,8 @@ SciNetX support is handled by the maintainer. Please do not include sensitive or
 - Licensed users: prefer the licensed support channel provided during onboarding.
 
 ## Security reports
-- Do not file public issues. Email michael.david@cuanschutz.edu.
-- See [SECURITY.md](SECURITY.md)
+- Do not file public issues for security reports. Email michael.david@cuanschutz.edu.
+ - See [SECURITY.md](SECURITY.md)
 
 ## General questions
 - Use the GitHub issue form: https://github.com/madavid128/SciNetX-Public/issues/new?template=general_inquiry.yml

@@ -6,3 +6,12 @@ contact_links:
   - name: Access requests
     url: https://github.com/madavid128/SciNetX-Public/issues/new?template=access_request.yml
     about: "Request access to SciNetX via the gated distribution channel."
+  - name: Bug reports
+    url: https://github.com/madavid128/SciNetX-Public/issues/new?template=bug_report.yml
+    about: "Report a bug in distributed SciNetX artifacts (redact sensitive data)."
+  - name: General inquiries
+    url: https://github.com/madavid128/SciNetX-Public/issues/new?template=general_inquiry.yml
+    about: "Ask a question about SciNetX outputs, licensing, or distribution."
+  - name: Support routing
+    url: https://github.com/madavid128/SciNetX-Public/blob/main/SUPPORT.md
+    about: "Support channels and redaction guidance."

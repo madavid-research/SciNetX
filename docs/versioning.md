@@ -1,7 +1,3 @@
----
-title: Versioning & Build Identifiers
----
-
 # Versioning & build identifiers
 
 When reporting bugs, including a precise build identifier helps reproduce the
@@ -23,4 +19,3 @@ Include:
 - artifact type (desktop/Docker/Colab)
 - operating system and architecture
 - approximate install/onboarding date
-

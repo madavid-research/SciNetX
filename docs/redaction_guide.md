@@ -1,7 +1,3 @@
----
-title: Redaction & Privacy Guide
----
-
 # Redaction & privacy guide
 
 When filing a public issue, assume anything posted can be indexed and copied.
@@ -25,4 +21,3 @@ or example files.
 - Operating system and architecture.
 - Exact steps to reproduce and expected vs actual behavior.
 - A minimal description of the `output/` workspace structure (folders present/missing).
-

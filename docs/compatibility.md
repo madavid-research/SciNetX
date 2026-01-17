@@ -1,7 +1,3 @@
----
-title: Compatibility
----
-
 # Compatibility
 
 ## Artifact types
@@ -26,4 +22,3 @@ Typical factors that affect runtime and UI responsiveness:
 - rendering settings for figures/networks
 
 If a shared benchmark is needed for a specific environment, include hardware and data scale details in an access/support request.
-

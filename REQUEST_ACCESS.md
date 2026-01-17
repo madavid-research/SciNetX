@@ -14,3 +14,7 @@ Email: michael.david@cuanschutz.edu
 ## Notes
 - This public repository does not contain the SciNetX source code.
 - Access is provided to licensed users via the distribution channel designated by the institution.
+
+## What to expect
+- An acknowledgement email is typically sent within 3–5 business days.
+- If approved, onboarding details are provided through the designated channel (portal/registry access details are not posted publicly).

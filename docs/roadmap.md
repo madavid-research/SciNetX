@@ -1,8 +1,4 @@
----
-title: Roadmap
----
-
-# Roadmap (public)
+# Roadmap
 
 High-level, non-sensitive roadmap items for SciNetX:
 
