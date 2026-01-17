@@ -1,8 +1,8 @@
 .DS_Store
+.Rhistory
 dist/
 build/
 output/
 logs/
 cache/
 *.zip
-

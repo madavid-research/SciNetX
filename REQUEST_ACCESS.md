@@ -14,4 +14,3 @@ Email: michael.david@cuanschutz.edu
 ## Notes
 - This public repository does not contain the SciNetX source code.
 - Access is provided to licensed users via the distribution channel designated by the institution.
-

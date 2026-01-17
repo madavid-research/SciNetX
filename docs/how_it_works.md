@@ -1,3 +1,7 @@
+---
+title: How SciNetX Works
+---
+
 # How SciNetX works
 
 SciNetX has two phases:
@@ -24,4 +28,3 @@ Inputs (PubMed/OpenAlex or CSV)
 ```
 
 The key idea is reproducibility: generate outputs once, then browse/share the output workspace.
-

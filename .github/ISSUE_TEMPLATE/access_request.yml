@@ -44,13 +44,21 @@ body:
   - type: textarea
     id: distribution
     attributes:
+      label: Additional details (optional)
+      description: Any constraints (offline env, procurement, compute, datasets, etc.) or questions for the maintainer.
+      placeholder: Brief notes
+    validations:
+      required: false
+  - type: checkboxes
+    id: needs
+    attributes:
       label: What do you need?
-      description: Check what you need and add details.
-      value: |
-        - [ ] Desktop bundle (macOS/Windows)
-        - [ ] Docker image (registry access)
-        - [ ] Source snapshot zip (on request)
-        - [ ] Colab notebook guidance
+      description: Select all that apply.
+      options:
+        - label: Desktop bundle (macOS/Windows)
+        - label: Docker image (registry access)
+        - label: Source snapshot zip (on request)
+        - label: Colab notebook guidance
   - type: input
     id: email
     attributes:
@@ -62,4 +70,3 @@ body:
     attributes:
       value: |
         Maintainer contact: michael.david@cuanschutz.edu
-

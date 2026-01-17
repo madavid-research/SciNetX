@@ -17,4 +17,3 @@ body:
       placeholder: name@domain.edu
     validations:
       required: false
-

@@ -1,3 +1,7 @@
+---
+title: Roadmap
+---
+
 # Roadmap (public)
 
 High-level, non-sensitive roadmap items for SciNetX:
@@ -6,4 +10,3 @@ High-level, non-sensitive roadmap items for SciNetX:
 - Improve turnkey onboarding (sample outputs, guided tutorials).
 - Expand export formats and report summaries.
 - Improve performance on large `output/` workspaces.
-

@@ -1,3 +1,7 @@
+---
+title: Licensing
+---
+
 # Licensing (summary)
 
 SciNetX is **source-available** and intended for **gated distribution**.
@@ -11,5 +15,8 @@ Commercial use requires a separate commercial license agreement.
 ## What “gated distribution” means
 SciNetX artifacts (desktop/Docker) are distributed through an institution portal to approved users. Source snapshots may be provided on request under the applicable license.
 
-For access requests, see `../REQUEST_ACCESS.md`.
+For access requests, see [REQUEST_ACCESS.md](https://github.com/madavid128/SciNetX-Public/blob/main/REQUEST_ACCESS.md).
 
+## Full license text
+- Academic/nonprofit non-commercial: [LICENSE](https://github.com/madavid128/SciNetX-Public/blob/main/LICENSE)
+- Commercial (overview): [LICENSE_COMMERCIAL.md](https://github.com/madavid128/SciNetX-Public/blob/main/LICENSE_COMMERCIAL.md)

@@ -4,6 +4,5 @@ contact_links:
     url: mailto:michael.david@cuanschutz.edu
     about: "Do not post vulnerabilities publicly. Email the maintainer."
   - name: Access requests
-    url: ../REQUEST_ACCESS.md
-    about: "How to request access via the gated distribution channel."
-
+    url: https://github.com/madavid128/SciNetX-Public/issues/new?template=access_request.yml
+    about: "Request access to SciNetX via the gated distribution channel."

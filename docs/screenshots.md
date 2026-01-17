@@ -1,6 +1,12 @@
-# Screenshots (placeholders)
+---
+title: Screenshots
+---
 
-Add screenshots and short captions here for the public landing page:
+# Screenshots
+
+Screenshots are not included in this public landing repository yet.
+
+If adding screenshots for the public landing page:
 - Home / workspace selection
 - Summary/Trends
 - Networks (PyVis)

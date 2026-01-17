@@ -1,3 +1,7 @@
+---
+title: Requirements
+---
+
 # Requirements
 
 SciNetX is distributed to licensed users via an institution portal. Requirements depend on which artifact you receive.
@@ -13,4 +17,3 @@ SciNetX is distributed to licensed users via an institution portal. Requirements
 ## Colab notebook
 - A Google account (Colab)
 - Access to the institution’s distribution channel for any required artifacts or source snapshot (as applicable)
-

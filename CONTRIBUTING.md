@@ -23,7 +23,12 @@ This public repository is a landing page only. The SciNetX implementation source
    - Add images under `docs/img/` (create the folder if needed)
    - Ensure screenshots contain no restricted/sensitive data
 
+## Documentation conventions
+- Prefer clickable Markdown links over bare paths (for example, `[docs/index.md](docs/index.md)`).
+- Keep links compatible with GitHub and GitHub Pages (avoid references that rely on local filesystem structure).
+- Keep the public repo free of restricted data (datasets, internal URLs, registry endpoints, credentials).
+- Run the link check before submitting: `python scripts/check_markdown_links.py`.
+
 ## Support and access
 - Access requests: use the “Access request” issue template or `REQUEST_ACCESS.md`.
 - Security issues: do not post publicly; see `SECURITY.md`.
-

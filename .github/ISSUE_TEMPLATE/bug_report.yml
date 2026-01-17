@@ -7,12 +7,15 @@ body:
     attributes:
       value: |
         This is the public landing repo and does not contain implementation code.
-        If you are a licensed user with access to the private distribution, please prefer the licensed support channel.
+        Licensed users with access to the private distribution should prefer the licensed support channel.
+        Please redact sensitive data from logs/screenshots before posting.
+        Redaction guidance: https://github.com/madavid128/SciNetX-Public/blob/main/docs/redaction_guide.md
   - type: input
     id: version
     attributes:
       label: Version/build identifier
       placeholder: e.g., 0.1.0, image digest, or portal release ID
+      description: See https://github.com/madavid128/SciNetX-Public/blob/main/docs/versioning.md for examples.
     validations:
       required: true
   - type: dropdown
@@ -27,13 +30,29 @@ body:
         - Other
     validations:
       required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: OS version, CPU/arch, and anything relevant (Docker Desktop version, browser if applicable).
+      placeholder: e.g., macOS 14.2 (arm64), Docker Desktop 4.27, Chrome 120
+    validations:
+      required: true
   - type: textarea
     id: steps
     attributes:
       label: Steps to reproduce
-      description: Include exact steps and what you expected vs what happened.
+      description: Include exact steps and expected vs actual behavior.
     validations:
       required: true
+  - type: textarea
+    id: workspace
+    attributes:
+      label: Output workspace details (optional)
+      description: If applicable, describe the `output/` workspace (folder presence, approximate size, and any notable missing files).
+      placeholder: e.g., tables/ present, networks/ missing; ~2GB total; report/validation_summary.txt present
+    validations:
+      required: false
   - type: textarea
     id: logs
     attributes:
@@ -45,4 +64,3 @@ body:
     attributes:
       value: |
         For security issues, do not file a public issue. Email michael.david@cuanschutz.edu.
-

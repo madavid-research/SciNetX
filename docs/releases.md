@@ -1,3 +1,7 @@
+---
+title: Releases
+---
+
 # Releases (institution portal)
 
 SciNetX releases are distributed to licensed users via an institution portal.
@@ -9,10 +13,9 @@ Typical release contents:
 - Source snapshot zip (provided on request or separately gated)
 
 ## Sample output (public preview)
-To make SciNetX easier to understand without distributing the full application publicly, we can provide a small, sanitized `output/` snapshot zip here.
+To make SciNetX easier to understand without distributing the full application publicly, this repo includes a tiny, sanitized sample workspace:
 
-Add (placeholder):
-- `output_sample.zip` (a tiny `output/` workspace with no restricted data)
+- [docs/sample_output/](sample_output/)
 
 This allows readers to see the expected folder layout and example tables without requiring access to the gated distribution channel.
 
@@ -23,4 +26,4 @@ Licensed users typically receive:
   - Third-party license notices bundle.
   - Source snapshot zip (on request or separately gated).
 
-Public changelog: `../CHANGELOG.md`.
+Public changelog: [CHANGELOG.md](https://github.com/madavid128/SciNetX-Public/blob/main/CHANGELOG.md).
