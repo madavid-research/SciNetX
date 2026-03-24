@@ -1,0 +1,86 @@
+Name:
+SciNetX
+
+Resource type:
+Software Tool
+
+Short description:
+SciNetX is a Python-based software platform for bibliometric, scientometric, and network analysis of scientific literature.
+
+Public availability clarification:
+SciNetX is a controlled-access software resource. Public-facing materials support discovery and citation; access to the software itself is managed separately through an academic/commercial licensing pathway.
+
+Expanded description:
+SciNetX supports reproducible workflows for literature data ingestion, cleaning, analysis, and visualization across citation, co-authorship, keyword, institutional, and related research networks, and can integrate literature data sources such as PubMed and OpenAlex.
+
+SciNetX can also be applied to custom datasets with or without associated literature papers, including broader general network analysis workflows outside literature-centered use cases.
+
+Intended use:
+Reproducible bibliometric, scientometric, and research network analytics over scientific literature, as well as custom datasets with or without associated literature papers.
+
+Public record scope:
+This public record documents the software purpose, citation metadata, provenance, and access pathway for SciNetX. It is descriptive and not a software distribution.
+
+Public materials:
+High-level software description, citation metadata, version/provenance information, and access guidance.
+
+Non-public materials:
+Source code, executables, model weights, proprietary workflows, internal configuration, private schemas, deployment details, and controlled delivery artifacts.
+
+Function:
+Bibliometric analysis; scientometric analysis; network analysis; literature mining; research analytics
+
+Suggested keywords:
+bibliometrics; scientometrics; network analysis; PubMed; OpenAlex
+
+Developer:
+Michael A. David
+
+Organization / affiliation:
+University of Colorado Anschutz Department of Orthopedics
+
+Contact email:
+michael.david@cuanschutz.edu
+
+ORCID:
+0009-0006-5637-2403
+
+Public project URL:
+https://scinetx.com
+
+Stable public GitHub record:
+https://github.com/madavid-research/SciNetX
+
+Paper repository:
+https://github.com/madavid-research/2026-BoneRep-MLforBoneImaging
+
+Release notes:
+https://github.com/madavid-research/SciNetX/blob/main/RELEASE_NOTES_v1.0.0.md
+
+Branding assets:
+SciNetX_logo_icon_only_square.svg
+SciNetX_logo_wordmark_below_square.svg
+
+Provenance:
+Version 1.0.0; release date 2026-03-23; maintainer/publisher Michael A. David
+
+Subjects / categories:
+bibliometrics; scientometrics; network analysis; PubMed; OpenAlex
+
+License / availability:
+SciNetX is available through a controlled academic/commercial access model and custom academic licensing arrangements. Public metadata and citation materials are available online, but the software itself is distributed separately.
+
+Availability note:
+Feature availability and delivery artifacts may vary by approved access pathway and license terms.
+
+Access / licensing contact:
+Use the inquiry and contact pathways at https://scinetx.com.
+
+Rights statement:
+This public record does not grant source access, redistribution rights, sublicensing rights, commercial use rights, or any implied open-source license.
+
+Citation policy:
+Use the Zenodo DOI for the software record, cite the associated paper where relevant, and include the RRID once assigned.
+
+Identifier placeholder:
+RRID:SCR_XXXXXX

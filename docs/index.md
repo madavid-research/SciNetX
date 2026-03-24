@@ -4,6 +4,8 @@
 
 SciNetX helps teams turn bibliometric and network analysis into a clear results package they can review, share, and revisit.
 
+SciNetX supports literature-centered workflows and can also be applied to custom datasets with or without associated literature papers, including broader general network analysis use cases.
+
 This repository is the stable public record for SciNetX. It is the long-term public reference for papers, software citation, version history, and publication materials. The active website for current information, inquiries, access, consulting, and licensing is [scinetx.com](https://scinetx.com).
 
 - Stable public record: [madavid-research/SciNetX](https://github.com/madavid-research/SciNetX)

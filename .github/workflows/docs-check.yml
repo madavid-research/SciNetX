@@ -1,9 +1,7 @@
 name: Docs checks
 
 on:
-  pull_request:
-  push:
-    branches: ["main"]
+  workflow_dispatch:
 
 jobs:
   markdown-links:
@@ -15,4 +13,3 @@ jobs:
           python-version: "3.x"
       - name: Check markdown relative links
         run: python scripts/check_markdown_links.py
-

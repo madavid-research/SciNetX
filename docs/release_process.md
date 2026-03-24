@@ -5,6 +5,16 @@ This public record repository does not build or publish artifacts.
 
 This page documents how the public record repository should be updated when a gated release happens.
 
+## Manual checks
+The GitHub Actions workflows in this repository are configured for manual runs only through the Actions tab. They do not run on `push`, `pull_request`, or a timed schedule.
+
+Use local commands before or alongside a manual Actions run:
+
+```bash
+make public-records-check
+python3 scripts/check_markdown_links.py
+```
+
 ## When a gated release is published
 1) Update the public changelog entry in [CHANGELOG.md](../CHANGELOG.md) (high-level, non-sensitive).
 2) Update [docs/releases.md](releases.md) if artifact types or portal packaging changed.
@@ -14,6 +24,7 @@ This page documents how the public record repository should be updated when a ga
    - [docs/output_schema.md](output_schema.md)
 5) If new recurring issues emerge, update [docs/known_issues.md](known_issues.md).
 6) If citation metadata changes, update [CITATION.cff](../CITATION.cff).
+7) Regenerate the public Zenodo and RRID materials in [../public_records/README.md](../public_records/README.md).
 
 ## Docs maintenance notes
 - Changes to delivered result types should be reflected in [docs/what_you_get.md](what_you_get.md) and [docs/output_schema.md](output_schema.md).
@@ -39,6 +50,20 @@ Release notes should be limited to public software, citation, and publication in
 ## Suggested command sequence
 After the public record repository changes are committed on the intended release commit:
 
+First regenerate the public records:
+
+```bash
+python3 scripts/generate_public_records.py --config public_records/config/scinetx.json
+```
+
+Or use the Make target:
+
+```bash
+make public-records
+```
+
+Then commit and tag the release:
+
 ```bash
 git add -A
 git commit -m "Prepare public release v1.0.0"
@@ -46,6 +71,8 @@ git tag -a v1.0.0 -m "SciNetX v1.0.0"
 git push origin main
 git push origin v1.0.0
 ```
+
+Review the regenerated files under [../public_records/zenodo](../public_records/zenodo) and [../public_records/rrid](../public_records/rrid) before creating the GitHub Release.
 
 If GitHub CLI is available, create the GitHub Release with:
 

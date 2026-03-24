@@ -1,0 +1,18 @@
+SciNetX is distributed under a controlled academic/commercial licensing model.
+
+This Zenodo archive contains metadata and documentation only. It does not
+include the SciNetX software source code, executables, model weights,
+proprietary pipelines, or internal implementation materials.
+
+This archive is descriptive, not distributive. Publication of these metadata
+and documentation files does not constitute distribution of the operational
+software.
+
+Nothing in this archive should be interpreted as a grant of source access,
+redistribution rights, sublicensing rights, commercial use rights, or any
+implied open-source license.
+
+Availability and licensing for the software itself are managed separately
+through the official SciNetX access and licensing process at
+https://scinetx.com. The stable public software record is
+https://github.com/madavid-research/SciNetX.

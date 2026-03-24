@@ -9,6 +9,9 @@ The paper repository is:
 
 This is the intended home for the paper itself, software citation context, and example materials that accompany the publication.
 
+## Preferred paper citation
+David, M. A., Williams, K. G., Constantine, E. P., Matthias, J., Ferguson, V. L., & Adams, D. J. (2026). Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT. *Bone Reports*.
+
 ## In one paragraph
 SciNetX brings bibliometric and network analysis results into a structured package that teams can review, discuss, export, and revisit. The `v1.0.0` public launch is aligned with the paper and provides citation guidance, access information, and publication materials in one place.
 
@@ -19,7 +22,7 @@ This public software and publication record is maintained by Michael A. David, P
 Use the software citation guidance in [cite.md](cite.md) or the machine-readable metadata in [CITATION.cff](../CITATION.cff).
 
 ## How to cite SciNetX
-- Cite the paper
+- Cite the paper listed above as the preferred scholarly citation
 - Include the SciNetX RRID
 - Add the software citation when a software-specific reference is required
 

@@ -1,0 +1,69 @@
+{
+  "name": "SciNetX",
+  "resourceType": "Software Tool",
+  "resourceSubtype": "software resource",
+  "shortDescription": "SciNetX is a Python-based software platform for bibliometric, scientometric, and network analysis of scientific literature.",
+  "publicAvailabilityClarification": "This public-facing record supports discovery and citation only. The software itself is managed through a controlled academic/commercial access model and is not represented here as an open-source distribution.",
+  "expandedDescription": "SciNetX provides end-to-end workflows for literature data ingestion, cleaning, analysis, and visualization. It supports citation, co-authorship, keyword, institutional, and related research networks, and is designed for reproducible large-scale research analytics. It can integrate literature data sources such as PubMed and OpenAlex. It can also be applied to custom datasets with or without associated literature papers, including broader general network analysis workflows.",
+  "intendedUse": "Reproducible bibliometric, scientometric, and research network analytics over scientific literature, as well as custom datasets with or without associated literature papers.",
+  "publicRecordScope": "This public record documents the software purpose, citation metadata, provenance, and access pathway for SciNetX. It is descriptive and not a technical distribution.",
+  "publicMaterials": [
+    "High-level software description",
+    "Citation metadata",
+    "Version and provenance information",
+    "Access guidance"
+  ],
+  "nonPublicMaterials": [
+    "Source code",
+    "Executables",
+    "Model weights",
+    "Proprietary workflows",
+    "Internal configuration",
+    "Private schemas",
+    "Deployment details",
+    "Controlled delivery artifacts"
+  ],
+  "function": [
+    "Bibliometric analysis",
+    "Scientometric analysis",
+    "Network analysis",
+    "Literature mining",
+    "Research analytics"
+  ],
+  "keywords": [
+    "bibliometrics",
+    "scientometrics",
+    "network analysis",
+    "PubMed",
+    "OpenAlex"
+  ],
+  "developer": "Michael A. David",
+  "organization": "University of Colorado Anschutz Department of Orthopedics",
+  "url": "https://scinetx.com",
+  "repository": "https://github.com/madavid-research/SciNetX",
+  "paperUrl": "https://github.com/madavid-research/2026-BoneRep-MLforBoneImaging",
+  "releaseNotesUrl": "https://github.com/madavid-research/SciNetX/blob/main/RELEASE_NOTES_v1.0.0.md",
+  "version": "1.0.0",
+  "releaseDate": "2026-03-23",
+  "publisher": "Michael A. David",
+  "contact": "michael.david@cuanschutz.edu",
+  "orcid": "0009-0006-5637-2403",
+  "subjects": [
+    "bibliometrics",
+    "scientometrics",
+    "network analysis",
+    "PubMed",
+    "OpenAlex"
+  ],
+  "availability": "Available through a controlled academic/commercial access model or custom academic license; not represented as an open-source distribution.",
+  "availabilityNote": "Feature availability, interfaces, and delivery artifacts may vary by approved access pathway, license terms, and onboarding context.",
+  "dataSourceTransparency": "May integrate literature data sources such as PubMed and OpenAlex. This public record does not disclose internal ingestion or processing implementation.",
+  "rightsStatement": "Nothing in this public record should be interpreted as a grant of source access, redistribution rights, sublicensing rights, commercial use rights, or any implied open-source license.",
+  "citationPolicy": "Use the Zenodo DOI for the software record, cite the associated paper where relevant, and include the RRID once assigned.",
+  "identifierPlaceholder": "RRID:SCR_XXXXXX",
+  "brandingAsset": "SciNetX_logo_icon_only_square.svg",
+  "brandingAssets": [
+    "SciNetX_logo_icon_only_square.svg",
+    "SciNetX_logo_wordmark_below_square.svg"
+  ]
+}

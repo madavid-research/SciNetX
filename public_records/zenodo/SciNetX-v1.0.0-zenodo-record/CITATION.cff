@@ -1,0 +1,37 @@
+      cff-version: 1.2.0
+      message: "If you use SciNetX, please cite the Zenodo software record."
+      title: "SciNetX"
+      type: software
+      version: "1.0.0"
+      doi: "10.5281/zenodo.XXXXXXX"
+      date-released: 2026-03-23
+      authors:
+        - family-names: "David"
+          given-names: "Michael A."
+          affiliation: "University of Colorado Anschutz Department of Orthopedics"
+          email: "michael.david@cuanschutz.edu"
+          orcid: "https://orcid.org/0009-0006-5637-2403"
+      contact:
+        - family-names: "David"
+          given-names: "Michael A."
+          affiliation: "University of Colorado Anschutz Department of Orthopedics"
+          email: "michael.david@cuanschutz.edu"
+          website: "https://scinetx.com"
+          orcid: "https://orcid.org/0009-0006-5637-2403"
+      publisher: "Michael A. David"
+      abstract: >-
+        SciNetX is a Python-based platform for bibliometric, scientometric, and network analysis of scientific literature. It supports
+        end-to-end workflows for literature ingestion, cleaning, analysis, and visualization across citation, co-authorship, keyword, institutional, and related research networks
+        for reproducible research analytics. It can also be applied to
+        custom datasets with or without associated literature papers,
+        including broader general network analysis workflows.
+      keywords:
+        - bibliometrics
+- scientometrics
+- network analysis
+- PubMed
+- OpenAlex
+      url: "https://scinetx.com"
+      repository-code: "https://github.com/madavid-research/SciNetX"
+      repository-artifact: "https://github.com/madavid-research/SciNetX/releases/tag/v1.0.0"
+      license: "LicenseRef-SciNetX-Controlled-Access"

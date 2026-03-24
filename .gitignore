@@ -3,9 +3,11 @@
 .vscode/
 .idea/
 *.log
+__pycache__/
+*.py[cod]
 dist/
 build/
 output/
 logs/
 cache/
-*.zip
+public_records/build/
