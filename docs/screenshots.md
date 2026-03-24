@@ -1,20 +1,30 @@
 # Screenshots
 
-Screenshots are not included in this public landing repository yet.
+This page uses branded placeholders in place of product captures in the public record repository.
 
-If adding screenshots for the public landing page:
-- Home / workspace selection
-- Summary/Trends
-- Networks (PyVis)
-- Downloads / exports
+## Gallery
 
-## Suggested filenames
-- `img/home.png`
-- `img/summary.png`
-- `img/trends.png`
-- `img/networks.png`
-- `img/downloads.png`
+### Home and results loading
+An overview image showing how a licensed user opens SciNetX and loads a results package.
 
-## Tips
-- Crop to show the important UI region (avoid empty margins).
-- Include one screenshot showing the “Data root” selection so users understand the workflow.
+![Home and results loading placeholder](img/screenshot_placeholder_home.svg)
+
+### Summaries and trends
+A view focused on the main summary experience, including publication activity and trend review.
+
+![Summaries and trends placeholder](img/screenshot_placeholder_summary.svg)
+
+### Network exploration
+A view that shows how relationship-based results are explored inside SciNetX.
+
+![Network exploration placeholder](img/screenshot_placeholder_networks.svg)
+
+### Tables and exports
+A view that highlights downloadable tables, review flows, and export options.
+
+![Tables and exports placeholder](img/screenshot_placeholder_exports.svg)
+
+## Explore further
+- Product overview: [what_you_get.md](what_you_get.md)
+- Workflow: [how_it_works.md](how_it_works.md)
+- Publication: [publication.md](publication.md)

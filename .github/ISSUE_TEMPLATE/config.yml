@@ -1,17 +1,26 @@
 blank_issues_enabled: false
 contact_links:
+  - name: SciNetX home
+    url: https://scinetx.com
+    about: "Public overview, documentation, and access routing."
+  - name: Licensed portal
+    url: https://portal.scinetx.com
+    about: "Licensed users can sign in here for releases and onboarding."
   - name: Security report (private)
     url: mailto:michael.david@cuanschutz.edu
     about: "Do not post vulnerabilities publicly. Email the maintainer."
-  - name: Access requests
-    url: https://github.com/madavid128/SciNetX-Public/issues/new?template=access_request.yml
-    about: "Request access to SciNetX via the gated distribution channel."
+  - name: Request SciNetX access (private)
+    url: https://github.com/madavid-research/SciNetX/blob/main/REQUEST_ACCESS.md
+    about: "Access requests are handled off GitHub to avoid public disclosure of personal details."
   - name: Bug reports
-    url: https://github.com/madavid128/SciNetX-Public/issues/new?template=bug_report.yml
+    url: https://github.com/madavid-research/SciNetX/issues/new?template=bug_report.yml
     about: "Report a bug in distributed SciNetX artifacts (redact sensitive data)."
   - name: General inquiries
-    url: https://github.com/madavid128/SciNetX-Public/issues/new?template=general_inquiry.yml
+    url: https://github.com/madavid-research/SciNetX/issues/new?template=general_inquiry.yml
     about: "Ask a question about SciNetX outputs, licensing, or distribution."
   - name: Support routing
-    url: https://github.com/madavid128/SciNetX-Public/blob/main/SUPPORT.md
+    url: https://github.com/madavid-research/SciNetX/blob/main/SUPPORT.md
     about: "Support channels and redaction guidance."
+  - name: Work with SciNetX
+    url: https://github.com/madavid-research/SciNetX/blob/main/WORK_WITH_SCINETX.md
+    about: "Consulting, partnership, and commercial inquiry paths."

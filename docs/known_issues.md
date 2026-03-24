@@ -10,7 +10,7 @@ This page lists commonly reported issues in distributed artifacts to reduce dupl
 No known issues are listed publicly yet.
 
 If you encounter a bug, please file a report and include the build identifier and environment details:
-- Bug report form: https://github.com/madavid128/SciNetX-Public/issues/new?template=bug_report.yml
+- Bug report form: https://github.com/madavid-research/SciNetX/issues/new?template=bug_report.yml
 
 If an issue is repeatedly reported, a short entry can be added here with:
 - affected artifact types (desktop/Docker/Colab)

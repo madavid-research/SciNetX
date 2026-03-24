@@ -1,13 +1,14 @@
 cff-version: 1.2.0
-title: "SciNetX Bibliometric Pipeline"
+title: "SciNetX"
 message: "If you use SciNetX in academic work, please cite this software."
-version: "0.1.0"
+version: "1.0.0"
+date-released: 2026-03-23
 authors:
   - family-names: "David"
-    given-names: "Michael"
+    given-names: "Michael A."
 license: "LicenseRef-SciNetX-Source-Available"
-repository-code: "https://github.com/madavid128/SciNetX-Public"
-url: "https://github.com/madavid128/SciNetX-Public"
+repository-code: "https://github.com/madavid-research/SciNetX"
+url: "https://github.com/madavid-research/SciNetX"
 keywords:
   - bibliometrics
   - scientometrics

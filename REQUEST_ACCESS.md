@@ -1,20 +1,34 @@
 # Request access
 
-SciNetX is source-available under a gated distribution model. End users typically receive binaries/containers via an institution portal; source snapshots are provided on request under the applicable license.
+SciNetX is available through a licensed access model.
+
+This GitHub repository is the stable public record for SciNetX. For current public contact and access requests, use [scinetx.com](https://scinetx.com).
+
+Onboarding and licensed delivery are available through [portal.scinetx.com](https://portal.scinetx.com).
+
+## Who should request access
+- Research teams exploring bibliometric or network analysis workflows
+- Shared services, cores, and support groups that deliver analysis across projects
+- Programs or institutions that need repeatable review and reporting
+- Commercial teams evaluating internal use, customer delivery, or hosted service models
 
 ## What to include in your request
 - Your name, affiliation, and role.
-- Intended use (academic/nonprofit non-commercial vs commercial).
-- If commercial: your organization name and a short description of intended deployment (internal use, redistribution, hosted service, etc.).
-- Any institutional procurement requirements (if applicable).
+- Whether your use is academic/nonprofit non-commercial or commercial.
+- If commercial: your organization name and a short description of the intended use.
+- Any procurement requirements (if applicable).
 
-## Contact
-Email: michael.david@cuanschutz.edu
-
-## Notes
-- This public repository does not contain the SciNetX source code.
-- Access is provided to licensed users via the distribution channel designated by the institution.
+## Good fit if you need
+- A repeatable package of tables, figures, network views, and run summaries
+- A dedicated interface for reviewing and exporting results
+- A delivery model that supports onboarding through a licensed portal
 
 ## What to expect
-- An acknowledgement email is typically sent within 3–5 business days.
-- If approved, onboarding details are provided through the designated channel (portal/registry access details are not posted publicly).
+- Follow the access process listed on [scinetx.com](https://scinetx.com).
+- If access is approved, onboarding details are provided for [portal.scinetx.com](https://portal.scinetx.com).
+
+## Before you request access
+- Product overview: [What you get](docs/what_you_get.md)
+- Who SciNetX is for: [Who it is for](docs/who_its_for.md)
+- Licensing summary: [Licensing](docs/licensing.md)
+- Publication details: [Publication](docs/publication.md)

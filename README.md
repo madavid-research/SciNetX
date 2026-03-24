@@ -1,96 +1,68 @@
-# SciNetX (Public Landing)
+# SciNetX
 
-![Docs checks](https://github.com/madavid128/SciNetX-Public/actions/workflows/docs-check.yml/badge.svg)
+[![Stable Record](https://img.shields.io/badge/Stable%20Record-GitHub-24292f)](https://github.com/madavid-research/SciNetX)
+[![Version](https://img.shields.io/badge/Version-v1.0.0-123047)](https://github.com/madavid-research/SciNetX)
+[![Paper Repo](https://img.shields.io/badge/Paper%20Repo-2026--BoneRep--MLforBoneImaging-0e7490)](https://github.com/madavid-research/2026-BoneRep-MLforBoneImaging)
 
-SciNetX is a bibliometric + network analysis pipeline and UI intended for gated distribution.
+SciNetX is a bibliometric and network analysis platform offered through a licensed access model.
 
-This public repository is a landing page only. The source code and release artifacts are shared with licensed users via an institution portal.
+This GitHub repository is the stable public record for SciNetX and the intended long-term reference for papers, software citation, version history, and publication materials. The active website for current information, inquiries, access, consulting, and licensing is [scinetx.com](https://scinetx.com). Onboarding and licensed delivery are available through [portal.scinetx.com](https://portal.scinetx.com).
 
-## Scope
-This repository accepts documentation improvements and public-facing onboarding updates.
-Implementation issues and build questions should be handled through the licensed support channel.
+SciNetX public materials in this repository are maintained by Michael A. David, PhD.
 
-## What’s in this repo
-- Public overview documentation (`docs/`)
-- Access request entry point (`REQUEST_ACCESS.md` + GitHub issue templates)
-- Citation metadata (`CITATION.cff`)
-- Security and support contact info (`SECURITY.md`, `SUPPORT.md`)
-- A tiny fabricated `output/` workspace preview (`docs/sample_output/`)
+## How to cite SciNetX
+> Cite the paper, include the SciNetX RRID, and use this GitHub repository as the stable software record.
 
-## What’s not in this repo
-- SciNetX implementation source code
-- Downloadable binaries/containers
-- Registry/portal URLs or credentials
+- Citation guide: [docs/cite.md](docs/cite.md)
+- Software availability: [SOFTWARE_AVAILABILITY.md](SOFTWARE_AVAILABILITY.md)
+- Citation metadata: [CITATION.cff](CITATION.cff)
+- Work with SciNetX: [WORK_WITH_SCINETX.md](WORK_WITH_SCINETX.md)
 
-## How it works (60 seconds)
-1) Run the pipeline once to produce an `output/` workspace (tables/figures/networks/report).
-2) Open the UI (desktop app or Docker) and point it at that `output/` folder (“Data root”).
-3) Explore, export, and share results (CSV tables and network exports).
+## Current public release
+- Git tag and GitHub Release: `v1.0.0`
+- Version: `1.0.0`
+- Release date: March 23, 2026
+- Changelog: [CHANGELOG.md](CHANGELOG.md)
+- Release notes: [RELEASE_NOTES_v1.0.0.md](RELEASE_NOTES_v1.0.0.md)
+- Stable citation record: [CITATION.cff](CITATION.cff)
+- Version file: [VERSION](VERSION)
 
-## Quickstart
-### Public (this repo)
-1) Read the overview: [docs/index.md](docs/index.md)
-2) Review the on-disk outputs: [docs/output_schema.md](docs/output_schema.md)
-3) Browse a tiny fabricated workspace preview: [docs/sample_output/](docs/sample_output/)
-4) Request access (gated distribution): [REQUEST_ACCESS.md](REQUEST_ACCESS.md)
+## Start here
+- Current website and inquiries: [scinetx.com](https://scinetx.com)
+- Overview and product pages: [docs/index.md](docs/index.md), [docs/who_its_for.md](docs/who_its_for.md), [docs/what_you_get.md](docs/what_you_get.md)
+- Citation and publication: [SOFTWARE_AVAILABILITY.md](SOFTWARE_AVAILABILITY.md), [docs/cite.md](docs/cite.md), [docs/publication.md](docs/publication.md)
+- Work with SciNetX: [WORK_WITH_SCINETX.md](WORK_WITH_SCINETX.md)
+- Paper repository: [2026-BoneRep-MLforBoneImaging](https://github.com/madavid-research/2026-BoneRep-MLforBoneImaging)
+- Permanent public record: [madavid-research/SciNetX](https://github.com/madavid-research/SciNetX)
+- Licensed portal: [portal.scinetx.com](https://portal.scinetx.com)
 
-### After licensing (artifacts distributed via portal)
-1) Obtain an artifact (desktop bundle and/or Docker) and onboarding docs from the institution portal.
-2) Run the pipeline to produce an `output/` workspace.
-3) Open the UI and set “Data root” to the `output/` folder.
-
-## Bug reports (public)
-This repo does not include implementation code, but bug reports against distributed artifacts are still useful.
-
-- File a bug: https://github.com/madavid128/SciNetX-Public/issues/new?template=bug_report.yml
-- Redaction guidance and support flow: [SUPPORT.md](SUPPORT.md)
-
-## What SciNetX does
-- Produces an `output/` workspace (tables/figures/networks/report) from supported inputs (e.g., PubMed/OpenAlex or custom CSV).
-- Provides a Streamlit UI (and optional desktop bundle) to explore the resulting outputs.
-
-## Documentation
-- Overview: [docs/index.md](docs/index.md)
-- Output schema: [docs/output_schema.md](docs/output_schema.md)
-- Requirements: [docs/requirements.md](docs/requirements.md)
-- Compatibility: [docs/compatibility.md](docs/compatibility.md)
-- Glossary: [docs/glossary.md](docs/glossary.md)
-- Known issues: [docs/known_issues.md](docs/known_issues.md)
-- Press & references: [docs/press_and_references.md](docs/press_and_references.md)
-- Media kit (logos): [docs/img/](docs/img/)
-- Licensing (summary): [docs/licensing.md](docs/licensing.md)
-- Releases (gated portal): [docs/releases.md](docs/releases.md)
-- Sample output (sanitized preview): [docs/sample_output/](docs/sample_output/)
-- Screenshots: [docs/screenshots.md](docs/screenshots.md)
+## Key links
+- Results package reference: [docs/output_schema.md](docs/output_schema.md)
+- Licensing summary: [docs/licensing.md](docs/licensing.md)
 - FAQ: [docs/faq.md](docs/faq.md)
-- Contributing (docs-only): [CONTRIBUTING.md](CONTRIBUTING.md)
+- Stable record: [madavid-research/SciNetX](https://github.com/madavid-research/SciNetX)
+- Current website and inquiries: [scinetx.com](https://scinetx.com)
+- Publication repository and examples: [2026-BoneRep-MLforBoneImaging](https://github.com/madavid-research/2026-BoneRep-MLforBoneImaging)
+- Support: [SUPPORT.md](SUPPORT.md)
+- Screenshots: [docs/screenshots.md](docs/screenshots.md)
 
 ## Licensing at a glance
-- Source-available, gated distribution (not open source).
-- Academic/nonprofit non-commercial use: permitted under the license provided to licensed users.
+- Licensed access model.
+- Academic/nonprofit non-commercial use: covered by the academic/nonprofit license.
 - Commercial use: requires a separate agreement.
-See [docs/licensing.md](docs/licensing.md), [LICENSE](LICENSE), [LICENSE_COMMERCIAL.md](LICENSE_COMMERCIAL.md), and [REQUEST_ACCESS.md](REQUEST_ACCESS.md).
+See [docs/licensing.md](docs/licensing.md), [LICENSE](LICENSE), [LICENSE_COMMERCIAL.md](LICENSE_COMMERCIAL.md), and [scinetx.com](https://scinetx.com).
 
-## How to obtain access (gated distribution)
-See [REQUEST_ACCESS.md](REQUEST_ACCESS.md). Portal details/URLs are shared with licensed users during onboarding.
+## How to obtain access
+See [scinetx.com](https://scinetx.com) for the current public access path. Onboarding details and artifact access are available through [portal.scinetx.com](https://portal.scinetx.com).
 
 ## Citation
-See [CITATION.cff](CITATION.cff).
+See [docs/cite.md](docs/cite.md), [SOFTWARE_AVAILABILITY.md](SOFTWARE_AVAILABILITY.md), and [CITATION.cff](CITATION.cff). Cite the paper and include the RRID once it is assigned. For stable software and publication references, use this GitHub repository.
 
 ## Security
 See [SECURITY.md](SECURITY.md).
 
 ## Contact
-- michael.david@cuanschutz.edu
-- Support details: [SUPPORT.md](SUPPORT.md)
-
-## What this repo is (and isn’t)
-- This repo is a public overview and access-request entry point.
-- It does not contain the SciNetX implementation code or downloadable binaries/containers.
-
-## FAQ (short)
-- Access requests: [REQUEST_ACCESS.md](REQUEST_ACCESS.md)
-- Licensing summary: [docs/licensing.md](docs/licensing.md)
-- Sample output preview: [docs/sample_output/](docs/sample_output/)
-- Known issues: [docs/known_issues.md](docs/known_issues.md)
+- Permanent public record: [madavid-research/SciNetX](https://github.com/madavid-research/SciNetX)
+- Current website and inquiries: [scinetx.com](https://scinetx.com)
 - Security reporting: [SECURITY.md](SECURITY.md)
+- Work with SciNetX: [WORK_WITH_SCINETX.md](WORK_WITH_SCINETX.md)

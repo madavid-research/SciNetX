@@ -1,23 +1,27 @@
 # Support
 
-SciNetX support is handled by the maintainer. Please do not include sensitive or restricted data in public issues.
+Use the support path that matches your situation. Do not include sensitive or restricted data in public issues.
+
+Use GitHub issues for public-safe bug reports and general questions. Use [scinetx.com](https://scinetx.com) for access, consulting, licensing, and partnership inquiries.
 
 ## Access requests
-- Use the GitHub issue form: https://github.com/madavid128/SciNetX-Public/issues/new?template=access_request.yml
-- Or see [REQUEST_ACCESS.md](REQUEST_ACCESS.md)
+- Do not use public GitHub issues for access requests.
+- Start here: [REQUEST_ACCESS.md](REQUEST_ACCESS.md)
 
 ## Bug reports
-- Public issue form (redact data): https://github.com/madavid128/SciNetX-Public/issues/new?template=bug_report.yml
+- Public bug report form: https://github.com/madavid-research/SciNetX/issues/new?template=bug_report.yml
 - Redaction guidance: [docs/redaction_guide.md](docs/redaction_guide.md)
 - Known issues: [docs/known_issues.md](docs/known_issues.md)
-- Licensed users: prefer the licensed support channel provided during onboarding.
+- Delivery-specific support is available through [portal.scinetx.com](https://portal.scinetx.com).
 
 ## Security reports
-- Do not file public issues for security reports. Email michael.david@cuanschutz.edu.
- - See [SECURITY.md](SECURITY.md)
+- Do not file public issues for security reports.
+- Do not post credentials, tokens, portal details, or restricted data in public channels.
+- Email: michael.david@cuanschutz.edu
+- See [SECURITY.md](SECURITY.md)
 
 ## General questions
-- Use the GitHub issue form: https://github.com/madavid128/SciNetX-Public/issues/new?template=general_inquiry.yml
+- Use the GitHub issue form: https://github.com/madavid-research/SciNetX/issues/new?template=general_inquiry.yml
 - Or email michael.david@cuanschutz.edu
 
 Typical response time: 3–5 business days.

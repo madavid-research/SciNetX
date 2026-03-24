@@ -6,18 +6,18 @@ body:
   - type: markdown
     attributes:
       value: |
-        This is the public landing repo and does not contain implementation code.
+        This is the public record repository and does not contain implementation code.
         Licensed users with access to the private distribution should prefer the licensed support channel.
         Please redact sensitive data from logs/screenshots before posting.
-        Redaction guidance: https://github.com/madavid128/SciNetX-Public/blob/main/docs/redaction_guide.md
-        Support routing: https://github.com/madavid128/SciNetX-Public/blob/main/SUPPORT.md
+        Redaction guidance: https://github.com/madavid-research/SciNetX/blob/main/docs/redaction_guide.md
+        Support routing: https://github.com/madavid-research/SciNetX/blob/main/SUPPORT.md
         Suggested title format: `[Bug] <short summary>`
   - type: input
     id: version
     attributes:
       label: Version/build identifier
-      placeholder: e.g., 0.1.0, image digest, or portal release ID
-      description: See https://github.com/madavid128/SciNetX-Public/blob/main/docs/versioning.md for examples.
+      placeholder: e.g., 1.0.0, image digest, or portal release ID
+      description: See https://github.com/madavid-research/SciNetX/blob/main/docs/versioning.md for examples.
     validations:
       required: true
   - type: dropdown

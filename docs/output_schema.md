@@ -1,13 +1,13 @@
-# Output schema (`output/`)
+# Results package reference (`output/`)
 
-SciNetX produces a filesystem workspace. The UI points at the workspace root (“Data root”) and reads these subfolders:
+This page is the technical reference for the SciNetX results folder. If you want the plain-language overview first, start with [what_you_get.md](what_you_get.md).
+
+SciNetX produces a results workspace on disk. The UI points at the workspace root (“Data root”) and reads these subfolders:
 
 - `tables/`: CSV/TSV outputs (metrics, long-form entities, per-year counts, etc.)
 - `figures/`: rendered plots (HTML and/or image formats depending on build settings)
 - `networks/`: network exports (e.g., GEXF/GraphML/HTML)
 - `report/`: small human-readable summaries (validation, run summaries)
-
-Public preview: see a tiny, fabricated example at [docs/sample_output/](sample_output/).
 
 ## Minimum expected structure
 At minimum, the UI expects:

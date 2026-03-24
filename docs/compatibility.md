@@ -1,7 +1,7 @@
 # Compatibility
 
 ## Artifact types
-SciNetX is distributed to licensed users through the institution portal in one or more of the following forms:
+SciNetX is distributed to licensed users through [portal.scinetx.com](https://portal.scinetx.com) in one or more of the following forms:
 - Desktop bundle (macOS)
 - Desktop bundle (Windows)
 - Docker-based UI

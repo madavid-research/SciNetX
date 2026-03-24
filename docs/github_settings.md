@@ -4,9 +4,9 @@ These settings are applied in the GitHub repository UI.
 
 ## About panel
 Set:
-- **Description**: “Public landing page and access request entry point for SciNetX (gated distribution).”
-- **Website**: optional (leave blank until GitHub Pages is enabled)
-- **Topics**: `bibliometrics`, `scientometrics`, `network-analysis`, `pubmed`, `openalex`
+- **Description**: “Stable public software record for SciNetX with citation, publication, and access information.”
+- **Website**: `https://scinetx.com`
+- **Topics**: `bibliometrics`, `scientometrics`, `network-analysis`, `research-analytics`, `publication-analysis`, `citation-analysis`, `science-of-science`, `openalex`, `pubmed`
 
 ## Social preview
 Add a social preview image that does not include restricted data (for example, a simple SciNetX wordmark).
@@ -19,9 +19,10 @@ Enable Discussions if separating questions from Issues is preferred.
 
 ## Issues
 Keep `blank_issues_enabled: false` and use issue forms to route:
-- access requests
 - bug reports
 - general inquiries
+
+Do not accept access requests as public issues; route them via [../REQUEST_ACCESS.md](../REQUEST_ACCESS.md).
 
 ## Labels and triage (manual)
 Recommended labels:
@@ -34,6 +35,6 @@ Recommended labels:
 See: [labels.md](labels.md)
 
 Recommended triage:
-- **Access requests**: acknowledge and route to onboarding channel; avoid sharing portal/registry URLs publicly.
+- **Access requests**: close/redirect to private channels; avoid collecting personal or procurement details in public issues.
 - **Bug reports**: request build identifier + environment + minimal reproduction; link to `docs/redaction_guide.md` for safe sharing.
 - **Questions**: answer if public-safe; otherwise route to email.

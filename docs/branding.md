@@ -3,9 +3,9 @@
 Brand assets intended for public use are stored under [docs/img/](img/).
 
 ## Allowed uses
-- Social preview images for the public repository
-- Presentations, posters, and public-facing documents describing SciNetX
-- Links to the public landing repository
+- Social preview images for the public record repository
+- Presentations, posters, and public documents describing SciNetX
+- Links to the public record repository
 
 ## Not allowed
 - Use of restricted screenshots or internal artifacts in public materials
@@ -18,4 +18,3 @@ Brand assets intended for public use are stored under [docs/img/](img/).
 
 ## Questions
 Branding questions and press inquiries: michael.david@cuanschutz.edu
-

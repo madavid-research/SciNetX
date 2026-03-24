@@ -1,26 +1,25 @@
 # How SciNetX works
 
-SciNetX has two phases:
+SciNetX works in two steps:
 
-1) **Pipeline run** → produces an `output/` workspace:
-   - `tables/`, `figures/`, `networks/`, `report/`
-2) **Exploration UI** → points at that workspace (“Data root”) and renders dashboards, networks, and exports.
+1) **Create the results package**: SciNetX processes the selected inputs and produces a results folder with tables, figures, network files, and run summaries.
+2) **Review the results in the UI**: the desktop or Docker interface opens that results folder and turns it into dashboards, visual views, and exports.
 
 ## Workflow diagram
 
 ```
-Inputs (PubMed/OpenAlex or CSV)
+Supported inputs
             |
             v
-     SciNetX pipeline
+      SciNetX analysis
             |
             v
-   output/ workspace folder
+   results workspace
  (tables/figures/networks/report)
             |
             v
    Desktop UI or Docker UI
-   (select Data root = output/)
+   (select the results folder)
 ```
 
-The key idea is reproducibility: generate outputs once, then browse/share the output workspace.
+The key idea is repeatability: create the results once, then return to the same results package for review, export, and sharing.

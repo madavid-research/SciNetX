@@ -3,9 +3,17 @@
 When reporting bugs, including a precise build identifier helps reproduce the
 issue quickly.
 
+## Public version record
+The stable public version record for SciNetX is maintained in:
+- [../VERSION](../VERSION)
+- [../CHANGELOG.md](../CHANGELOG.md)
+- [../CITATION.cff](../CITATION.cff)
+
+These public files can be updated as versions change without publishing artifacts in this repository.
+
 ## Accepted identifiers
-- **Semantic version** (if provided): for example, `0.1.0`
-- **Portal release ID**: an institution portal release identifier (if applicable)
+- **Semantic version** (if provided): for example, `1.0.0`
+- **Portal release ID**: a release identifier from [portal.scinetx.com](https://portal.scinetx.com) (if applicable)
 - **Docker image digest**: for example, `sha256:...`
 - **Desktop build identifier**: any build string shown in the application UI/about panel
 
@@ -19,3 +27,11 @@ Include:
 - artifact type (desktop/Docker/Colab)
 - operating system and architecture
 - approximate install/onboarding date
+
+## Public update pattern
+When the public version changes:
+- update [../VERSION](../VERSION)
+- update [../CHANGELOG.md](../CHANGELOG.md)
+- update [../CITATION.cff](../CITATION.cff)
+- update public references in [index.md](index.md) and [../README.md](../README.md)
+- optionally create a matching Git tag such as `v1.0.1`

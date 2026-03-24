@@ -16,8 +16,8 @@ body:
         Suggested title format: `[Question] <short summary>`
 
         For access requests and support routing, see:
-        - https://github.com/madavid128/SciNetX-Public/blob/main/REQUEST_ACCESS.md
-        - https://github.com/madavid128/SciNetX-Public/blob/main/SUPPORT.md
+        - https://github.com/madavid-research/SciNetX/blob/main/REQUEST_ACCESS.md
+        - https://github.com/madavid-research/SciNetX/blob/main/SUPPORT.md
   - type: input
     id: contact
     attributes:

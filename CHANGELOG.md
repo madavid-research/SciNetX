@@ -1,12 +1,9 @@
 # Changelog (public)
 
-This is a public, high-level changelog for SciNetX. Detailed release notes and downloadable artifacts are provided through the institution portal for licensed users.
+This is a public, high-level changelog for SciNetX. Detailed release notes and downloadable artifacts are provided through [portal.scinetx.com](https://portal.scinetx.com) for licensed users.
 
-## Unreleased
-- Documentation and onboarding updates.
-  - Clearer public Quickstart and navigation.
-  - Added glossary and sample output manifest.
-  - Added lightweight docs/link-check CI.
-
-## 0.1.0
-- Initial gated release (desktop/Docker/source snapshot via portal).
+## 1.0.0
+- Published alongside the SciNetX paper.
+- Initial public record and gated release documentation for `v1.0.0`.
+- Licensed distribution available through [portal.scinetx.com](https://portal.scinetx.com).
+- Public GitHub release notes: [RELEASE_NOTES_v1.0.0.md](RELEASE_NOTES_v1.0.0.md)

@@ -1,6 +1,6 @@
 # Documentation style guide
 
-This guide applies to the public landing repository documentation.
+This guide applies to the public record documentation.
 
 ## Tone
 - Prefer clear, friendly, reader-directed language for onboarding and issue templates.
@@ -13,13 +13,12 @@ This guide applies to the public landing repository documentation.
 
 ## Links
 - Prefer clickable Markdown links instead of bare paths.
-- Avoid internal URLs and institution-specific portal/registry details.
-- Keep links compatible with GitHub and (optionally) GitHub Pages.
+- Avoid internal URLs and non-public portal/registry details.
+- Keep links compatible with GitHub.
 
 ## Data hygiene
 - Do not include restricted/sensitive data (PHI/PII, internal hostnames, credentials, proprietary datasets).
-- Prefer fabricated or sanitized examples for any sample outputs.
+- Prefer high-level public descriptions or approved screenshots over bundled example workspaces.
 
 ## Checks
 - Run the link checker before submitting: `python scripts/check_markdown_links.py`.
-

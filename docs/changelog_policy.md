@@ -1,7 +1,7 @@
 # Public changelog policy
 
-SciNetX implementation releases are distributed to licensed users via a gated institution portal.
-This public repository contains only a high-level changelog intended for public-facing updates.
+SciNetX implementation releases are distributed to licensed users through [portal.scinetx.com](https://portal.scinetx.com).
+This public record contains only a high-level changelog intended for public updates.
 
 ## Include in the public changelog
 - Public documentation and onboarding improvements.
@@ -15,5 +15,4 @@ This public repository contains only a high-level changelog intended for public-
 - Security vulnerability details (use the security reporting channel).
 
 ## Where detailed notes live
-Detailed release notes and build artifacts are provided through the gated distribution channel for licensed users.
-
+Detailed release notes and build artifacts are provided through [portal.scinetx.com](https://portal.scinetx.com) for licensed users.

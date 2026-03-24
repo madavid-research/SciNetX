@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">SciNetX placeholder screenshot: network exploration</title>
+  <desc id="desc">Placeholder artwork for a future SciNetX screenshot.</desc>
+  <rect width="1600" height="900" fill="#f4f7f8"/>
+  <rect x="60" y="60" width="1480" height="780" rx="28" fill="#ffffff" stroke="#d8e1e6" stroke-width="4"/>
+  <rect x="60" y="60" width="1480" height="92" rx="28" fill="#123047"/>
+  <rect x="120" y="190" width="280" height="540" rx="24" fill="#eef4f6"/>
+  <rect x="450" y="190" width="970" height="540" rx="24" fill="#eef4f6"/>
+  <line x1="610" y1="350" x2="820" y2="500" stroke="#0e7490" stroke-width="8"/>
+  <line x1="820" y1="500" x2="1060" y2="360" stroke="#0e7490" stroke-width="8"/>
+  <line x1="720" y1="280" x2="820" y2="500" stroke="#0e7490" stroke-width="8"/>
+  <line x1="980" y1="600" x2="820" y2="500" stroke="#0e7490" stroke-width="8"/>
+  <line x1="650" y1="580" x2="820" y2="500" stroke="#0e7490" stroke-width="8"/>
+  <circle cx="610" cy="350" r="42" fill="#f3b33d"/>
+  <circle cx="820" cy="500" r="60" fill="#0e7490"/>
+  <circle cx="1060" cy="360" r="48" fill="#123047"/>
+  <circle cx="720" cy="280" r="34" fill="#0e7490"/>
+  <circle cx="980" cy="600" r="38" fill="#f3b33d"/>
+  <circle cx="650" cy="580" r="34" fill="#123047"/>
+  <text x="800" y="790" text-anchor="middle" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#123047">Network Exploration</text>
+  <text x="800" y="848" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#4a6274">Replace with approved public screenshot</text>
+</svg>
