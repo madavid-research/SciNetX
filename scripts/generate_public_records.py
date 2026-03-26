@@ -5,6 +5,10 @@ This script keeps the editable source of truth in a small JSON config and
 rebuilds the user-facing public-record materials from templates. The generated
 outputs are intentionally metadata-only and should not contain operational
 software artifacts.
+
+Licensing note: this public-record tooling is covered by the scoped BSD-3-Clause
+license in LICENSE-public-record-tools-BSD-3-Clause.txt. That license does not
+apply to the SciNetX software platform itself or to SciNetX branding assets.
 """
 
 from __future__ import annotations
@@ -67,6 +71,23 @@ def human_list(items: list[str]) -> str:
     if len(items) == 2:
         return f"{items[0]} and {items[1]}"
     return f"{', '.join(items[:-1])}, and {items[-1]}"
+
+
+def is_placeholder_value(value: str) -> bool:
+    """Return True when an identifier still contains placeholder marker text."""
+    return "XXXX" in value
+
+
+def rrid_assigned(cfg: dict) -> bool:
+    """Return True when the configured RRID is a real assigned identifier."""
+    return not is_placeholder_value(cfg["rrid_placeholder"])
+
+
+def rrid_citation_guidance(cfg: dict) -> str:
+    """Build citation wording that reflects whether the RRID is assigned yet."""
+    if rrid_assigned(cfg):
+        return f"For citation, use the Zenodo DOI for the software record, cite the associated paper where relevant, and include RRID `{cfg['rrid_placeholder']}`."
+    return "For citation, use the Zenodo DOI for the software record, cite the associated paper where relevant, and include the RRID once assigned."
 
 
 def normalize_version_tag(tag: str) -> str:
@@ -238,7 +259,7 @@ def build_zenodo_readme(cfg: dict, branding_names: list[str]) -> str:
 
         > {cfg['author_citation_name']} {cfg['name']} (Version {cfg['version']}) [Software]. Zenodo. https://doi.org/{cfg['doi_placeholder']}
 
-        For citation, use the Zenodo DOI for the software record, cite the associated paper where relevant, and include the RRID once assigned.
+        {rrid_citation_guidance(cfg)}
 
         ## Access and rights
 
@@ -528,9 +549,9 @@ def build_rrid_submission(cfg: dict, branding_names: list[str]) -> str:
         This public record does not grant source access, redistribution rights, sublicensing rights, commercial use rights, or any implied open-source license.
 
         Citation policy:
-        Use the Zenodo DOI for the software record, cite the associated paper where relevant, and include the RRID once assigned.
+        {rrid_citation_guidance(cfg)}
 
-        Identifier placeholder:
+        {"Assigned RRID" if rrid_assigned(cfg) else "Identifier placeholder"}:
         {cfg['rrid_placeholder']}
         """
     )
@@ -581,9 +602,9 @@ def build_rrid_description(cfg: dict, branding_names: list[str]) -> str:
 
         Rights statement: this public record does not grant source access, redistribution rights, sublicensing rights, commercial use rights, or any implied open-source license.
 
-        Citation policy: use the Zenodo DOI for the software record, cite the associated paper where relevant, and include the RRID once assigned.
+        Citation policy: {rrid_citation_guidance(cfg)}
 
-        RRID placeholder: `{cfg['rrid_placeholder']}`
+        {"Assigned RRID" if rrid_assigned(cfg) else "RRID placeholder"}: `{cfg['rrid_placeholder']}`
         """
     )
 
@@ -639,8 +660,9 @@ def build_rrid_metadata(cfg: dict, branding_names: list[str]) -> dict:
         "availabilityNote": "Feature availability, interfaces, and delivery artifacts may vary by approved access pathway, license terms, and onboarding context.",
         "dataSourceTransparency": f"May integrate literature data sources such as {human_list(cfg['data_sources'])}. This public record does not disclose internal ingestion or processing implementation.",
         "rightsStatement": "Nothing in this public record should be interpreted as a grant of source access, redistribution rights, sublicensing rights, commercial use rights, or any implied open-source license.",
-        "citationPolicy": "Use the Zenodo DOI for the software record, cite the associated paper where relevant, and include the RRID once assigned.",
-        "identifierPlaceholder": cfg["rrid_placeholder"],
+        "citationPolicy": rrid_citation_guidance(cfg),
+        "identifier": cfg["rrid_placeholder"],
+        "identifierStatus": "assigned" if rrid_assigned(cfg) else "placeholder",
     }
     if branding_names:
         payload["brandingAsset"] = branding_names[0]

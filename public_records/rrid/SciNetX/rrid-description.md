@@ -40,6 +40,6 @@ Access and licensing contact: use the inquiry pathways at https://scinetx.com.
 
 Rights statement: this public record does not grant source access, redistribution rights, sublicensing rights, commercial use rights, or any implied open-source license.
 
-Citation policy: use the Zenodo DOI for the software record, cite the associated paper where relevant, and include the RRID once assigned.
+Citation policy: For citation, use the Zenodo DOI for the software record, cite the associated paper where relevant, and include RRID `RRID:SCR_028186`.
 
-RRID placeholder: `RRID:SCR_XXXXXX`
+Assigned RRID: `RRID:SCR_028186`

@@ -15,6 +15,22 @@ make public-records-check
 python3 scripts/check_markdown_links.py
 ```
 
+## GitHub repository settings
+Apply these settings manually in the GitHub repository UI as needed:
+
+- About description: `Stable public software record for SciNetX with citation, publication, and access information.`
+- Website: `https://scinetx.com`
+- Social preview: `docs/img/SciNetX_logo_wordmark_below_square_1024.png`
+- Topics: `bibliometrics`, `scientometrics`, `network-analysis`, `research-analytics`, `publication-analysis`, `citation-analysis`, `science-of-science`, `openalex`, `pubmed`
+- Discussions: optional
+
+Recommended labels:
+- `bug`
+- `question`
+- `docs`
+- `security`
+- `access-request` only as a redirect marker for misfiled public access/licensing requests
+
 ## When a gated release is published
 1) Update the public changelog entry in [CHANGELOG.md](../CHANGELOG.md) (high-level, non-sensitive).
 2) Update [docs/releases.md](releases.md) if artifact types or portal packaging changed.

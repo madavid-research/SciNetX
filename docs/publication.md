@@ -12,28 +12,10 @@ This is the intended home for the paper itself, software citation context, and e
 ## Preferred paper citation
 David, M. A., Williams, K. G., Constantine, E. P., Matthias, J., Ferguson, V. L., & Adams, D. J. (2026). Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT. *Bone Reports*.
 
-## In one paragraph
-SciNetX brings bibliometric and network analysis results into a structured package that teams can review, discuss, export, and revisit. The `v1.0.0` public launch is aligned with the paper and provides citation guidance, access information, and publication materials in one place.
-
-## Authorship and stewardship
-This public software and publication record is maintained by Michael A. David, PhD.
-
-## Software citation
-Use the software citation guidance in [cite.md](cite.md) or the machine-readable metadata in [CITATION.cff](../CITATION.cff).
-
 ## How to cite SciNetX
 - Cite the paper listed above as the preferred scholarly citation
-- Include the SciNetX RRID
+- Include the SciNetX RRID: `RRID:SCR_028186`
 - Add the software citation when a software-specific reference is required
-
-## Publication record
-The public website and `v1.0.0` release are aligned with the paper launch. Publication materials and citation context are reflected in this repository, in [cite.md](cite.md), and in [../CITATION.cff](../CITATION.cff).
-
-## Public version record
-- Current version: `1.0.0`
-- Stable version file: [../VERSION](../VERSION)
-- Public changelog: [../CHANGELOG.md](../CHANGELOG.md)
-- Public release notes: [../RELEASE_NOTES_v1.0.0.md](../RELEASE_NOTES_v1.0.0.md)
 
 ## Start here
 - Who SciNetX is for: [who_its_for.md](who_its_for.md)
@@ -41,6 +23,8 @@ The public website and `v1.0.0` release are aligned with the paper launch. Publi
 - How it works: [how_it_works.md](how_it_works.md)
 - Access: [scinetx.com](https://scinetx.com)
 - Paper repository: [2026-BoneRep-MLforBoneImaging](https://github.com/madavid-research/2026-BoneRep-MLforBoneImaging)
+- Software citation details: [cite.md](cite.md), [../CITATION.cff](../CITATION.cff)
+- Release details: [../RELEASE_NOTES_v1.0.0.md](../RELEASE_NOTES_v1.0.0.md), [../CHANGELOG.md](../CHANGELOG.md)
 
 ## Press contact
 For current press and publication contact information, use [scinetx.com](https://scinetx.com).

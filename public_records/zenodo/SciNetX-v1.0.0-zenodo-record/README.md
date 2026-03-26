@@ -53,7 +53,7 @@ Recommended software citation wording:
 
 > David, M. A. SciNetX (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
 
-For citation, use the Zenodo DOI for the software record, cite the associated paper where relevant, and include the RRID once assigned.
+For citation, use the Zenodo DOI for the software record, cite the associated paper where relevant, and include RRID `RRID:SCR_028186`.
 
 ## Access and rights
 

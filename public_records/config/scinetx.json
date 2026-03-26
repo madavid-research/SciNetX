@@ -14,7 +14,7 @@
   "github_url": "https://github.com/madavid-research/SciNetX",
   "paper_repo_url": "https://github.com/madavid-research/2026-BoneRep-MLforBoneImaging",
   "doi_placeholder": "10.5281/zenodo.XXXXXXX",
-  "rrid_placeholder": "RRID:SCR_XXXXXX",
+  "rrid_placeholder": "RRID:SCR_028186",
   "platform_summary": "Python-based platform for bibliometric, scientometric, and network analysis of scientific literature",
   "workflow_summary": "literature ingestion, cleaning, analysis, and visualization across citation, co-authorship, keyword, institutional, and related research networks",
   "data_sources": [

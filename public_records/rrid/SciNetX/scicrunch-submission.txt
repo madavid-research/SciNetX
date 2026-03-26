@@ -80,7 +80,7 @@ Rights statement:
 This public record does not grant source access, redistribution rights, sublicensing rights, commercial use rights, or any implied open-source license.
 
 Citation policy:
-Use the Zenodo DOI for the software record, cite the associated paper where relevant, and include the RRID once assigned.
+For citation, use the Zenodo DOI for the software record, cite the associated paper where relevant, and include RRID `RRID:SCR_028186`.
 
-Identifier placeholder:
-RRID:SCR_XXXXXX
+Assigned RRID:
+RRID:SCR_028186

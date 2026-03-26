@@ -1,6 +1,6 @@
 # Cite SciNetX
 
-If you use SciNetX in academic work, cite the paper and include the RRID. Add the software citation when a software-specific reference is requested, and use the repository or Zenodo record as the stable public software record when needed.
+If you use SciNetX in academic work, cite the paper and include RRID `RRID:SCR_028186`. Add the software citation when a software-specific reference is requested, and use the repository or Zenodo record as the stable public software record when needed.
 
 ## Current public software release
 - Name: SciNetX
@@ -17,7 +17,7 @@ Michael A. David. *SciNetX* (Version 1.0.0) [Software]. 2026. [https://github.co
 
 ## Preferred citation path
 - Cite the paper listed above as the preferred scholarly citation
-- Include the SciNetX RRID
+- Include the SciNetX RRID: `RRID:SCR_028186`
 - Use the software citation above when a software-specific citation is needed
 - Use the GitHub repository or Zenodo record as the stable software/public record when a repository or archival reference is requested
 
@@ -28,7 +28,7 @@ Prepared Zenodo and RRID public-record materials are available in [../public_rec
 
 ## Badge guidance
 - Zenodo: use the official Zenodo DOI badge once the software DOI is assigned
-- RRID: use a custom badge linked to the RRID resolver once the RRID is assigned
+- RRID: the root README now uses a custom badge linked to the RRID resolver
 - Paper DOI: use a DOI badge once the article DOI is assigned
 - Until those identifiers are assigned, use placeholder or pending status badges only
 
@@ -43,7 +43,7 @@ The paper repository for publication materials and examples is:
 [2026-BoneRep-MLforBoneImaging](https://github.com/madavid-research/2026-BoneRep-MLforBoneImaging)
 
 ## RRID
-- Include the SciNetX RRID alongside the paper citation where applicable
+- Include `RRID:SCR_028186` alongside the paper citation where applicable
 
 ## Questions
 - Press and paper information: [publication.md](publication.md)

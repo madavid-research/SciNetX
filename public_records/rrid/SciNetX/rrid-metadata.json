@@ -59,8 +59,9 @@
   "availabilityNote": "Feature availability, interfaces, and delivery artifacts may vary by approved access pathway, license terms, and onboarding context.",
   "dataSourceTransparency": "May integrate literature data sources such as PubMed and OpenAlex. This public record does not disclose internal ingestion or processing implementation.",
   "rightsStatement": "Nothing in this public record should be interpreted as a grant of source access, redistribution rights, sublicensing rights, commercial use rights, or any implied open-source license.",
-  "citationPolicy": "Use the Zenodo DOI for the software record, cite the associated paper where relevant, and include the RRID once assigned.",
-  "identifierPlaceholder": "RRID:SCR_XXXXXX",
+  "citationPolicy": "For citation, use the Zenodo DOI for the software record, cite the associated paper where relevant, and include RRID `RRID:SCR_028186`.",
+  "identifier": "RRID:SCR_028186",
+  "identifierStatus": "assigned",
   "brandingAsset": "SciNetX_logo_icon_only_square.svg",
   "brandingAssets": [
     "SciNetX_logo_icon_only_square.svg",

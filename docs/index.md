@@ -13,13 +13,6 @@ This repository is the stable public record for SciNetX. It is the long-term pub
 - Licensed portal: [portal.scinetx.com](https://portal.scinetx.com)
 - Paper repository: [2026-BoneRep-MLforBoneImaging](https://github.com/madavid-research/2026-BoneRep-MLforBoneImaging)
 
-## Current public release
-- Version: `1.0.0`
-- Release date: March 23, 2026
-- Changelog: [../CHANGELOG.md](../CHANGELOG.md)
-- Citation metadata: [../CITATION.cff](../CITATION.cff)
-- Version file: [../VERSION](../VERSION)
-
 ## Why SciNetX
 - **Repeatable results**: Run SciNetX once and keep summaries, figures, network views, and reports together in one organized results package.
 - **Exploration UI**: Open the desktop or Docker experience and move through results in a review-friendly interface built for exploration and export.
@@ -80,7 +73,6 @@ This repository is the stable public record for SciNetX. It is the long-term pub
 - Security policy: [../SECURITY.md](../SECURITY.md)
 - Redaction guide: [redaction_guide.md](redaction_guide.md)
 - Governance: [governance.md](governance.md)
-- Full documentation index: [navigation.md](navigation.md)
 
 ## Trust
 - **Published with the paper**: SciNetX `v1.0.0` is aligned with the paper launch and includes guidance for citing the paper and adding the RRID, with paper materials hosted in the publication repository.
