@@ -28,7 +28,7 @@ Onboarding details and delivery information are provided through [scinetx.com](h
 Start with [who_its_for.md](who_its_for.md) and [what_you_get.md](what_you_get.md). Those pages explain the kinds of teams, workflows, and review needs SciNetX is designed to support.
 
 ## Can I cite SciNetX?
-Yes. Cite the paper and include the RRID. See [cite.md](cite.md) and [../CITATION.cff](../CITATION.cff).
+Yes. Cite the software record and include the RRID. The associated manuscript is currently under review at *Bone Reports*. See [cite.md](cite.md) and [../CITATION.cff](../CITATION.cff).
 
 ## Where will the paper and examples live?
 The paper repository is [2026-BoneRep-MLforBoneImaging](https://github.com/madavid-research/2026-BoneRep-MLforBoneImaging).

@@ -75,14 +75,14 @@ This repository is the stable public record for SciNetX. It is the long-term pub
 - Governance: [governance.md](governance.md)
 
 ## Trust
-- **Published with the paper**: SciNetX `v1.0.0` is aligned with the paper launch and includes guidance for citing the paper and adding the RRID, with paper materials hosted in the publication repository.
+- **Manuscript under review**: SciNetX `v1.0.0` is described in a manuscript currently under review at *Bone Reports*, with paper materials hosted in the publication repository.
 - **Clear website path**: Use [scinetx.com](https://scinetx.com) for current information, inquiries, access, consulting, onboarding, and licensed application delivery.
 - **Stable public reference**: Use this GitHub repository as the long-term public reference in papers, citations, and publication materials.
 
 ## Contact paths
 - **Access, consulting, and licensing**: Use the website for fit, inquiries, access, licensing, and public contact details. [scinetx.com](https://scinetx.com)
 - **Publication and citation**: Start here for the paper launch, software citation, and public publication materials. [publication.md](publication.md)
-- **Support and reporting**: Use the contact and support pages for bug reports, general questions, and security reporting. [contact.md](contact.md)
+- **Support and reporting**: Use the support page for bug reports, general questions, and security reporting. [../SUPPORT.md](../SUPPORT.md)
 
 ## What is not included here
 - The full SciNetX application source

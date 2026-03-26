@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: "SciNetX"
-message: "If you use SciNetX in academic work, please cite this software."
+message: "If you use SciNetX in academic work, please cite this software. The associated manuscript is currently under review at Bone Reports."
 version: "1.0.0"
 date-released: 2026-03-23
 authors:
@@ -26,24 +26,6 @@ abstract: >-
   and network analysis of scientific literature. It also supports custom
   datasets with or without associated literature papers, including broader
   general network analysis workflows.
-preferred-citation:
-  type: article
-  authors:
-    - family-names: "David"
-      given-names: "Michael A."
-    - family-names: "Williams"
-      given-names: "K. G."
-    - family-names: "Constantine"
-      given-names: "E. P."
-    - family-names: "Matthias"
-      given-names: "J."
-    - family-names: "Ferguson"
-      given-names: "V. L."
-    - family-names: "Adams"
-      given-names: "D. J."
-  title: "Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT"
-  journal: "Bone Reports"
-  year: 2026
 keywords:
   - bibliometrics
   - scientometrics

@@ -11,22 +11,29 @@ SciNetX is a bibliometric and network analysis platform offered through a licens
 
 It supports literature-centered bibliometric and scientometric workflows, and it can also be applied to custom datasets with or without associated literature papers, including broader general network analysis use cases.
 
-This GitHub repository is the stable public software and publication record for SciNetX. Use it for version history, citation metadata, release materials, and long-term public references. The active website for current information, inquiries, access, consulting, and licensed application access is [scinetx.com](https://scinetx.com).
+This GitHub repository is the stable public software and publication record for SciNetX. Use it for version history, citation metadata, release materials, and long-term public references. This repository is the stable public record. Operational source and artifacts are distributed separately under license through approved access pathways. The active website for current information, inquiries, access, consulting, and licensed application access is [scinetx.com](https://scinetx.com).
 
 SciNetX public materials in this repository are maintained by Michael A. David, PhD.
 
+## Repository scope
+- Public record documentation is included in this repository.
+- Public-record tooling is included in this repository.
+- SciNetX application source is distributed separately through gated licensed access pathways.
+- Commercial rights are available only through a separate agreement.
+
 ## How to cite SciNetX
-> Use the paper as the preferred scholarly citation. Include the SciNetX RRID (`RRID:SCR_028186`), and use this repository or the Zenodo record when a stable software reference is needed.
+> SciNetX is described in a manuscript currently under review at *Bone Reports*: *Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT*. Include the SciNetX RRID (`RRID:SCR_028186`), and use this repository or the Zenodo record when a stable software reference is needed.
 
-Preferred paper citation:
+Associated manuscript:
 
-David, M. A., Williams, K. G., Constantine, E. P., Matthias, J., Ferguson, V. L., & Adams, D. J. (2026). *Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT*. Bone Reports.
+David, M. A., Williams, K. G., Constantine, E. P., Matthias, J., Ferguson, V. L., & Adams, D. J. (2026). *Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT*. Manuscript under review at *Bone Reports*.
 
 Current identifier status:
 
 - Zenodo DOI: placeholder until assigned (`10.5281/zenodo.XXXXXXX`)
 - RRID: assigned (`RRID:SCR_028186`)
 - Paper DOI: pending
+- Manuscript status: currently under review at *Bone Reports*
 - Stable public software/publication record: [madavid-research/SciNetX](https://github.com/madavid-research/SciNetX)
 
 ## Current public release
@@ -44,7 +51,7 @@ Current identifier status:
 - Access and collaboration: [scinetx.com](https://scinetx.com), [WORK_WITH_SCINETX.md](WORK_WITH_SCINETX.md)
 - Paper materials: [2026-BoneRep-MLforBoneImaging](https://github.com/madavid-research/2026-BoneRep-MLforBoneImaging)
 - Support and security: [SUPPORT.md](SUPPORT.md), [SECURITY.md](SECURITY.md)
-- Maintainer public-record workflow: [public_records/README.md](public_records/README.md)
+- Public record maintenance notes: [public_records/README.md](public_records/README.md)
 
 ## Licensing at a glance
 - Licensed access model.

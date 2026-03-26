@@ -2,34 +2,47 @@
 
 This folder contains the maintained Zenodo and RRID public-record materials for SciNetX.
 
-Use it when preparing or refreshing:
+This repository no longer uses a generator for these files. Update them manually when the public record changes.
+
+Use this folder when preparing or refreshing:
 
 - the Zenodo citation record
 - the RRID / SciCrunch software resource record
 
-Source of truth:
-- `config/scinetx.json`
+## Manual update checklist
 
-Generate or refresh the public records with:
+When the public record changes, review and manually update as needed:
 
-```bash
-python3 scripts/generate_public_records.py --config public_records/config/scinetx.json
-```
+- `README.md`
+- `CITATION.cff`
+- `CHANGELOG.md`
+- `RELEASE_NOTES_v1.0.0.md` or the current release notes file
+- `VERSION`
+- files under `public_records/zenodo/`
+- files under `public_records/rrid/`
 
-Or use:
+Typical reasons to update:
 
-```bash
-make public-records
-```
+- new public version or Git tag
+- Zenodo DOI assignment or correction
+- RRID wording or metadata updates
+- citation metadata updates
+- release-note or publication-link changes
+- contact or affiliation changes
 
-For the full workflow, release checklist, overrides, and post-assignment updates, see [../docs/public_records_workflow.md](../docs/public_records_workflow.md).
+## Review before release
 
-## Reuse and license scope
+Before tagging or publishing a public-record update:
 
-The public-record generation tooling and templates are available under the
-scoped BSD-3-Clause license in
-[../LICENSE-public-record-tools-BSD-3-Clause.txt](../LICENSE-public-record-tools-BSD-3-Clause.txt).
+- review the Zenodo files under `public_records/zenodo/`
+- review the RRID files under `public_records/rrid/`
+- run `python3 scripts/check_markdown_links.py`
+- confirm the DOI, RRID, version, and release-date values match across the public files
 
-That scoped license applies to the generator workflow and related public-record
-templates. It does not apply to the SciNetX software platform itself,
-controlled-access materials, or SciNetX branding assets.
+## Release notes
+
+When publishing a public-record update:
+
+- commit the updated public files
+- create the matching Git tag and GitHub Release
+- use the current `RELEASE_NOTES_*.md` file as the basis for the GitHub Release body

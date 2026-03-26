@@ -1,6 +1,6 @@
 # Cite SciNetX
 
-If you use SciNetX in academic work, cite the paper and include RRID `RRID:SCR_028186`. Add the software citation when a software-specific reference is requested, and use the repository or Zenodo record as the stable public software record when needed.
+If you use SciNetX in academic work, cite the software record and include RRID `RRID:SCR_028186`. The associated manuscript is currently under review at *Bone Reports*. Use the repository or Zenodo record as the stable public software record when needed.
 
 ## Current public software release
 - Name: SciNetX
@@ -9,14 +9,15 @@ If you use SciNetX in academic work, cite the paper and include RRID `RRID:SCR_0
 - Stable public record: [madavid-research/SciNetX](https://github.com/madavid-research/SciNetX)
 - Website: [scinetx.com](https://scinetx.com)
 
-## Preferred paper citation
-David, M. A., Williams, K. G., Constantine, E. P., Matthias, J., Ferguson, V. L., & Adams, D. J. (2026). Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT. *Bone Reports*.
+## Associated manuscript
+David, M. A., Williams, K. G., Constantine, E. P., Matthias, J., Ferguson, V. L., & Adams, D. J. (2026). Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT. Manuscript currently under review at *Bone Reports*.
 
 ## Recommended software citation
 Michael A. David. *SciNetX* (Version 1.0.0) [Software]. 2026. [https://github.com/madavid-research/SciNetX](https://github.com/madavid-research/SciNetX)
 
 ## Preferred citation path
-- Cite the paper listed above as the preferred scholarly citation
+- Cite the software record for a stable public reference
+- Cite the manuscript above when appropriate for your review or submission context
 - Include the SciNetX RRID: `RRID:SCR_028186`
 - Use the software citation above when a software-specific citation is needed
 - Use the GitHub repository or Zenodo record as the stable software/public record when a repository or archival reference is requested
@@ -37,7 +38,7 @@ For durable software and publication references, use this GitHub repository:
 [madavid-research/SciNetX](https://github.com/madavid-research/SciNetX)
 
 ## Paper citation
-SciNetX `v1.0.0` is published with the paper listed above.
+SciNetX `v1.0.0` is described in the manuscript listed above, which is currently under review at *Bone Reports*.
 
 The paper repository for publication materials and examples is:
 [2026-BoneRep-MLforBoneImaging](https://github.com/madavid-research/2026-BoneRep-MLforBoneImaging)

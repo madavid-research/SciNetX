@@ -6,7 +6,8 @@ Use GitHub issues for public-safe bug reports and general questions. Use [scinet
 
 ## Access requests
 - Do not use public GitHub issues for access requests.
-- Start here: [REQUEST_ACCESS.md](REQUEST_ACCESS.md)
+- Start with [REQUEST_ACCESS.md](REQUEST_ACCESS.md).
+- Use [scinetx.com](https://scinetx.com) for current access, onboarding, and licensing pathways.
 
 ## Bug reports
 - Public bug report form: https://github.com/madavid-research/SciNetX/issues/new?template=bug_report.yml
@@ -23,5 +24,11 @@ Use GitHub issues for public-safe bug reports and general questions. Use [scinet
 ## General questions
 - Use the GitHub issue form: https://github.com/madavid-research/SciNetX/issues/new?template=general_inquiry.yml
 - Or email michael.david@cuanschutz.edu
+
+## Public links
+- Stable public record: https://github.com/madavid-research/SciNetX
+- Website and inquiries: https://scinetx.com
+- Publication page: [docs/publication.md](docs/publication.md)
+- Paper repository: https://github.com/madavid-research/2026-BoneRep-MLforBoneImaging
 
 Typical response time: 3–5 business days.

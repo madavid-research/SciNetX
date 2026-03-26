@@ -1,6 +1,6 @@
 # SciNetX v1.0.0
 
-SciNetX `v1.0.0` is the public software record aligned with the paper.
+SciNetX `v1.0.0` is the public software record aligned with the associated manuscript, which is currently under review at *Bone Reports*.
 
 ## Public release highlights
 - Stable public GitHub record for software, citation, and publication information
@@ -10,8 +10,9 @@ SciNetX `v1.0.0` is the public software record aligned with the paper.
 - Public-facing overview pages for audience fit, workflow, publication, and access
 
 ## Citation
-- Cite the paper
-- Include the SciNetX RRID when assigned
+- Cite the software record
+- Reference the associated manuscript as under review at *Bone Reports* when appropriate
+- Include the SciNetX RRID: `RRID:SCR_028186`
 - Use the software citation record in [CITATION.cff](./CITATION.cff) when a software-specific citation is needed
 
 ## Public references
