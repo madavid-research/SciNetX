@@ -11,7 +11,7 @@ Commercial use requires a separate commercial agreement.
 ## What this means in practice
 You can review SciNetX at [scinetx.com](https://scinetx.com).
 
-Access, onboarding, and licensed delivery are available through [portal.scinetx.com](https://portal.scinetx.com).
+Access, onboarding, and licensed delivery are available through [scinetx.com](https://scinetx.com).
 
 For access requests, see [../REQUEST_ACCESS.md](../REQUEST_ACCESS.md).
 

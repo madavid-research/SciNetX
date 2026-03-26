@@ -10,13 +10,13 @@ This repository is the stable public record for SciNetX. It is the long-term pub
 
 - Stable public record: [madavid-research/SciNetX](https://github.com/madavid-research/SciNetX)
 - Current website and inquiries: [scinetx.com](https://scinetx.com)
-- Licensed portal: [portal.scinetx.com](https://portal.scinetx.com)
+- Licensed application access: [scinetx.com](https://scinetx.com)
 - Paper repository: [2026-BoneRep-MLforBoneImaging](https://github.com/madavid-research/2026-BoneRep-MLforBoneImaging)
 
 ## Why SciNetX
 - **Repeatable results**: Run SciNetX once and keep summaries, figures, network views, and reports together in one organized results package.
 - **Exploration UI**: Open the desktop or Docker experience and move through results in a review-friendly interface built for exploration and export.
-- **Licensed distribution**: Review the overview here, then use the SciNetX portal for onboarding, access, and licensed releases.
+- **Licensed distribution**: Review the overview here, then use SciNetX licensed application access on [scinetx.com](https://scinetx.com) for onboarding and releases.
 
 ## Why teams use SciNetX
 - **Research portfolio review**: Bring publication activity, collaboration patterns, and network views together in one place for review and discussion.
@@ -32,7 +32,7 @@ This repository is the stable public record for SciNetX. It is the long-term pub
 - Review requirements and compatibility: [requirements.md](requirements.md), [compatibility.md](compatibility.md)
 - Stable public record: [madavid-research/SciNetX](https://github.com/madavid-research/SciNetX)
 - Request access and inquiries: [scinetx.com](https://scinetx.com)
-- Already licensed? Sign in at [portal.scinetx.com](https://portal.scinetx.com)
+- Licensed access: [scinetx.com](https://scinetx.com)
 - Work with SciNetX: [../WORK_WITH_SCINETX.md](../WORK_WITH_SCINETX.md)
 
 ## Workflow at a glance
@@ -46,7 +46,7 @@ This repository is the stable public record for SciNetX. It is the long-term pub
 - **Evaluating SciNetX**: Start with the workflow and delivery overview. [what_you_get.md](what_you_get.md)
 - **Requesting access**: Use the website for current contact, access, and licensing details. [scinetx.com](https://scinetx.com)
 - **Stable reference**: Use this GitHub repository as the durable public reference. [madavid-research/SciNetX](https://github.com/madavid-research/SciNetX)
-- **Already licensed**: Go directly to the portal for onboarding and release access. [portal.scinetx.com](https://portal.scinetx.com)
+- **Licensed access**: Use the current application routes on [scinetx.com](https://scinetx.com) for onboarding and release access.
 
 ## What you can evaluate here
 
@@ -76,7 +76,7 @@ This repository is the stable public record for SciNetX. It is the long-term pub
 
 ## Trust
 - **Published with the paper**: SciNetX `v1.0.0` is aligned with the paper launch and includes guidance for citing the paper and adding the RRID, with paper materials hosted in the publication repository.
-- **Clear website path**: Start at [scinetx.com](https://scinetx.com) for current information, inquiries, access, consulting, and licensing, and use [portal.scinetx.com](https://portal.scinetx.com) for onboarding and delivery.
+- **Clear website path**: Use [scinetx.com](https://scinetx.com) for current information, inquiries, access, consulting, onboarding, and licensed application delivery.
 - **Stable public reference**: Use this GitHub repository as the long-term public reference in papers, citations, and publication materials.
 
 ## Contact paths

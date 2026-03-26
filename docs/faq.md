@@ -1,7 +1,7 @@
 # FAQ
 
 ## Is the source code public?
-No. SciNetX is offered through a licensed access model. Releases are available through [portal.scinetx.com](https://portal.scinetx.com), and source snapshots may be provided under the applicable license.
+No. SciNetX is offered through a licensed access model. Releases are available through [scinetx.com](https://scinetx.com), and source snapshots may be provided under the applicable license.
 
 ## How do I get access?
 Use [scinetx.com](https://scinetx.com). Public access requests are handled there rather than through GitHub issues.
@@ -10,7 +10,7 @@ Use [scinetx.com](https://scinetx.com). Public access requests are handled there
 Use this GitHub repository as the stable public record. Use the project website for the current public access path.
 
 ## What do I need to run it?
-Platform-specific bundles and documentation are available through [portal.scinetx.com](https://portal.scinetx.com).
+Platform-specific bundles and documentation are available through [scinetx.com](https://scinetx.com).
 
 ## Who is SciNetX for?
 Start with [who_its_for.md](who_its_for.md) for a plain-language overview of the kinds of teams and organizations SciNetX is designed to support.
@@ -22,7 +22,7 @@ Start with [who_its_for.md](who_its_for.md), [what_you_get.md](what_you_get.md),
 SciNetX is delivered in platform-appropriate formats such as a desktop application and Docker-based deployment, depending on the access path and environment.
 
 ## What happens after access is approved?
-Onboarding details and delivery information are provided through [portal.scinetx.com](https://portal.scinetx.com).
+Onboarding details and delivery information are provided through [scinetx.com](https://scinetx.com).
 
 ## How do I know whether SciNetX is a fit?
 Start with [who_its_for.md](who_its_for.md) and [what_you_get.md](what_you_get.md). Those pages explain the kinds of teams, workflows, and review needs SciNetX is designed to support.

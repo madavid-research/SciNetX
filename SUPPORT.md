@@ -12,11 +12,11 @@ Use GitHub issues for public-safe bug reports and general questions. Use [scinet
 - Public bug report form: https://github.com/madavid-research/SciNetX/issues/new?template=bug_report.yml
 - Redaction guidance: [docs/redaction_guide.md](docs/redaction_guide.md)
 - Known issues: [docs/known_issues.md](docs/known_issues.md)
-- Delivery-specific support is available through [portal.scinetx.com](https://portal.scinetx.com).
+- Delivery-specific support is available through [scinetx.com](https://scinetx.com).
 
 ## Security reports
 - Do not file public issues for security reports.
-- Do not post credentials, tokens, portal details, or restricted data in public channels.
+- Do not post credentials, tokens, internal route details, or restricted data in public channels.
 - Email: michael.david@cuanschutz.edu
 - See [SECURITY.md](SECURITY.md)
 

@@ -7,7 +7,7 @@ SciNetX supports bibliometric and scientometric workflows over scientific litera
 ## Public references
 - Stable public record: [madavid-research/SciNetX](https://github.com/madavid-research/SciNetX)
 - Current website: [scinetx.com](https://scinetx.com)
-- Licensed portal: [portal.scinetx.com](https://portal.scinetx.com)
+- Licensed application access: [scinetx.com](https://scinetx.com)
 - Citation guide: [docs/cite.md](docs/cite.md)
 - Publication page: [docs/publication.md](docs/publication.md)
 - Citation metadata: [CITATION.cff](CITATION.cff)

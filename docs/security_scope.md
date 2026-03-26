@@ -11,6 +11,6 @@ Security issues should not be reported in public issues.
 
 ## What to include
 - affected artifact type (desktop/Docker/other)
-- build identifier or portal release ID
+- build identifier or licensed release ID
 - environment details and a redacted reproduction description
 - impact, including whether credentials, restricted data, or access controls may be involved

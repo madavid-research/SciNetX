@@ -17,7 +17,7 @@ SciNetX `v1.0.0` is the public software record aligned with the paper.
 ## Public references
 - Stable public record: [madavid-research/SciNetX](https://github.com/madavid-research/SciNetX)
 - Current website: [scinetx.com](https://scinetx.com)
-- Licensed portal: [portal.scinetx.com](https://portal.scinetx.com)
+- Licensed application access: [scinetx.com](https://scinetx.com)
 - Publication page: [docs/publication.md](./docs/publication.md)
 
 ## Notes

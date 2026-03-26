@@ -6,7 +6,7 @@ Please ensure screenshots contain no restricted/sensitive data.
 
 ## Usage policy (public record)
 - Only include assets approved for public release.
-- Do not include patient/participant data, PHI/PII, internal hostnames, portal/registry URLs, credentials, or proprietary datasets.
+- Do not include patient/participant data, PHI/PII, internal hostnames, application/registry URLs, credentials, or proprietary datasets.
 - Prefer neutral, non-identifying example workspaces and UI states.
 - Prefer PNG for screenshots; prefer SVG for logos/diagrams where possible.
 - Recommended minimum width for screenshots: 1200px.

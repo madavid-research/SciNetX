@@ -1,6 +1,6 @@
 # Release process (public record)
 
-SciNetX implementation releases are distributed to licensed users through [portal.scinetx.com](https://portal.scinetx.com).
+SciNetX implementation releases are distributed to licensed users through [scinetx.com](https://scinetx.com).
 This public record repository does not build or publish artifacts.
 
 This page documents how the public record repository should be updated when a gated release happens.
@@ -33,7 +33,7 @@ Recommended labels:
 
 ## When a gated release is published
 1) Update the public changelog entry in [CHANGELOG.md](../CHANGELOG.md) (high-level, non-sensitive).
-2) Update [docs/releases.md](releases.md) if artifact types or portal packaging changed.
+2) Update [docs/releases.md](releases.md) if artifact types or licensed delivery packaging changed.
 3) If the user-facing description of delivered results changed, update:
    - [docs/what_you_get.md](what_you_get.md)
 4) If the on-disk workspace contract changed, update:
@@ -61,7 +61,7 @@ Suggested naming:
 
 Use [../RELEASE_NOTES_v1.0.0.md](../RELEASE_NOTES_v1.0.0.md) as the basis for the public GitHub Release body.
 
-Release notes should be limited to public software, citation, and publication information (no portal/registry details).
+Release notes should be limited to public software, citation, and publication information (no internal application/registry details).
 
 ## Suggested command sequence
 After the public record repository changes are committed on the intended release commit:

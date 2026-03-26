@@ -2,7 +2,7 @@
 
 Thanks for helping improve SciNetX documentation and onboarding.
 
-This repository supports the public SciNetX materials at [scinetx.com](https://scinetx.com). Licensed delivery is handled through [portal.scinetx.com](https://portal.scinetx.com).
+This repository supports the public SciNetX materials at [scinetx.com](https://scinetx.com). Licensed application access is handled through [scinetx.com](https://scinetx.com).
 
 ## What contributions are welcome here
 - Documentation improvements (typos, clarity, structure).
@@ -34,7 +34,7 @@ This repository supports the public SciNetX materials at [scinetx.com](https://s
 - Use sentence case for headings where possible.
 - Keep paragraphs short and scannable (prefer bullets for checklists).
 - Avoid adding screenshots unless fully sanitized and approved for public release.
-- Avoid internal URLs and non-public portal/registry details.
+- Avoid internal URLs and non-public application/registry details.
 
 ## Support and access
 - Access requests: use `REQUEST_ACCESS.md`.

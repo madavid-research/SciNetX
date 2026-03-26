@@ -16,7 +16,7 @@ body:
     id: version
     attributes:
       label: Version/build identifier
-      placeholder: e.g., 1.0.0, image digest, or portal release ID
+      placeholder: e.g., 1.0.0, image digest, or licensed release ID
       description: See https://github.com/madavid-research/SciNetX/blob/main/docs/versioning.md for examples.
     validations:
       required: true

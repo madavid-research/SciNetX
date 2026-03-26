@@ -4,7 +4,7 @@ SciNetX is available through a licensed access model.
 
 This GitHub repository is the stable public record for SciNetX. For current public contact and access requests, use [scinetx.com](https://scinetx.com).
 
-Onboarding and licensed delivery are available through [portal.scinetx.com](https://portal.scinetx.com).
+Onboarding and licensed application access are available through [scinetx.com](https://scinetx.com).
 
 ## Who should request access
 - Research teams exploring bibliometric or network analysis workflows
@@ -21,11 +21,11 @@ Onboarding and licensed delivery are available through [portal.scinetx.com](http
 ## Good fit if you need
 - A repeatable package of tables, figures, network views, and run summaries
 - A dedicated interface for reviewing and exporting results
-- A delivery model that supports onboarding through a licensed portal
+- A delivery model that supports licensed onboarding and application access
 
 ## What to expect
 - Follow the access process listed on [scinetx.com](https://scinetx.com).
-- If access is approved, onboarding details are provided for [portal.scinetx.com](https://portal.scinetx.com).
+- If access is approved, onboarding details and licensed access instructions are provided through [scinetx.com](https://scinetx.com).
 
 ## Before you request access
 - Product overview: [What you get](docs/what_you_get.md)

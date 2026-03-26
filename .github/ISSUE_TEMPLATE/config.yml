@@ -3,9 +3,9 @@ contact_links:
   - name: SciNetX home
     url: https://scinetx.com
     about: "Public overview, documentation, and access routing."
-  - name: Licensed portal
-    url: https://portal.scinetx.com
-    about: "Licensed users can sign in here for releases and onboarding."
+  - name: Licensed application access
+    url: https://scinetx.com
+    about: "Licensed users can sign in here for application access, releases, and onboarding."
   - name: Security report (private)
     url: mailto:michael.david@cuanschutz.edu
     about: "Do not post vulnerabilities publicly. Email the maintainer."

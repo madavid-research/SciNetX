@@ -1,6 +1,6 @@
 # Security policy
 
-SciNetX is distributed to licensed users through [portal.scinetx.com](https://portal.scinetx.com). Do not post vulnerabilities publicly.
+SciNetX is distributed to licensed users through [scinetx.com](https://scinetx.com). Do not post vulnerabilities publicly.
 
 ## Scope
 This repository contains the stable public software and publication record for SciNetX. It does not contain the full SciNetX application source or licensed artifacts.
@@ -19,6 +19,6 @@ Include:
 - environment details
 - a concise reproduction description
 - the observed impact
-- whether credentials, restricted data, or portal access may be involved
+- whether credentials, restricted data, or licensed application access may be involved
 
 Do not include secrets, credentials, personal data, or unredacted sensitive material in any public channel.

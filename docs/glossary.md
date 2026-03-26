@@ -9,8 +9,8 @@ The folder selected in the UI that points at the `output/` workspace root.
 ## Artifact
 A distributed form of SciNetX provided to licensed users (for example, a desktop bundle or Docker-based UI).
 
-## Portal release ID / build identifier
-A version string, portal release identifier, or Docker image digest that uniquely identifies a distributed build.
+## Release ID / build identifier
+A version string, licensed release identifier, or Docker image digest that uniquely identifies a distributed build.
 
 ## Source snapshot
 A zipped copy of the SciNetX implementation source code provided to licensed users under the applicable license.

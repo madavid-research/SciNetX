@@ -6,7 +6,7 @@ or example files.
 
 ## Do not include
 - Patient/participant data, PHI/PII, or any individual-level identifiers.
-- Institution-internal hostnames, VPN addresses, registry URLs, or portal URLs.
+- Institution-internal hostnames, VPN addresses, registry URLs, or internal application URLs.
 - Credentials (API keys, tokens, passwords), even if expired.
 - Proprietary datasets or non-public bibliographic exports.
 - Full `output/` workspaces from restricted projects (unless explicitly sanitized).

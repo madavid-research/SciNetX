@@ -25,7 +25,7 @@ Each licensed delivery is designed around a repeatable results package so users 
 Start with the overview at [scinetx.com](https://scinetx.com), read about the workflow, and request access if SciNetX looks like a fit.
 
 ### After access
-Onboarding and release access are available through [portal.scinetx.com](https://portal.scinetx.com), along with the delivery format appropriate for the environment.
+Onboarding and release access are available through [scinetx.com](https://scinetx.com), along with the delivery format appropriate for the environment.
 
 ## Typical delivery formats
 - Desktop application

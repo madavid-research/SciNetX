@@ -1,6 +1,6 @@
 # Requirements
 
-SciNetX is distributed to licensed users through [portal.scinetx.com](https://portal.scinetx.com). Requirements depend on which artifact you receive.
+SciNetX is distributed to licensed users through [scinetx.com](https://scinetx.com). Requirements depend on which artifact you receive.
 
 ## Desktop bundle
 - macOS: SciNetX app bundle (double-click), no Python required.
@@ -12,4 +12,4 @@ SciNetX is distributed to licensed users through [portal.scinetx.com](https://po
 
 ## Colab notebook
 - A Google account (Colab)
-- Access to [portal.scinetx.com](https://portal.scinetx.com) for any required artifacts or source snapshot (as applicable)
+- Access to [scinetx.com](https://scinetx.com) for any required artifacts or source snapshot (as applicable)

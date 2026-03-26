@@ -18,7 +18,7 @@ Commercial use is available under a separate agreement. If you are evaluating Sc
 You can review the product overview, workflow, citation information, and launch materials on [scinetx.com](https://scinetx.com) before requesting access.
 
 ## After access
-Onboarding and licensed delivery are available through [portal.scinetx.com](https://portal.scinetx.com).
+Onboarding and licensed delivery are available through [scinetx.com](https://scinetx.com).
 
 ## Where to go next
 - What you get: [what_you_get.md](what_you_get.md)

@@ -11,7 +11,7 @@ SciNetX is a bibliometric and network analysis platform offered through a licens
 
 It supports literature-centered bibliometric and scientometric workflows, and it can also be applied to custom datasets with or without associated literature papers, including broader general network analysis use cases.
 
-This GitHub repository is the stable public software and publication record for SciNetX. Use it for version history, citation metadata, release materials, and long-term public references. The active website for current information, inquiries, access, consulting, and licensing is [scinetx.com](https://scinetx.com). Onboarding and licensed delivery are available through [portal.scinetx.com](https://portal.scinetx.com).
+This GitHub repository is the stable public software and publication record for SciNetX. Use it for version history, citation metadata, release materials, and long-term public references. The active website for current information, inquiries, access, consulting, and licensed application access is [scinetx.com](https://scinetx.com).
 
 SciNetX public materials in this repository are maintained by Michael A. David, PhD.
 
@@ -53,4 +53,4 @@ Current identifier status:
 See [docs/licensing.md](docs/licensing.md), [LICENSE](LICENSE), [LICENSE_COMMERCIAL.md](LICENSE_COMMERCIAL.md), and [scinetx.com](https://scinetx.com).
 
 ## How to obtain access
-See [scinetx.com](https://scinetx.com) for the current public access path. Onboarding details and artifact access are available through [portal.scinetx.com](https://portal.scinetx.com).
+See [scinetx.com](https://scinetx.com) for the current public access path, onboarding details, and licensed application access.

@@ -1,6 +1,6 @@
 # Releases
 
-SciNetX releases are distributed to licensed users through [portal.scinetx.com](https://portal.scinetx.com).
+SciNetX releases are distributed to licensed users through [scinetx.com](https://scinetx.com).
 
 Typical release contents:
 - Desktop bundles (macOS/Windows; optional Linux)
@@ -18,7 +18,7 @@ Public visitors can review the SciNetX workflow, delivery model, and plain-langu
 ## What you receive when licensed
 Licensed users typically receive:
 - A desktop bundle (macOS/Windows) and/or a Docker image reference.
-- A portal release at [portal.scinetx.com](https://portal.scinetx.com).
+- A licensed release available through [scinetx.com](https://scinetx.com).
 - Third-party license notices bundle.
 - Source snapshot zip (on request or separately gated).
 
