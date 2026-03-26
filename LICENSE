@@ -1,6 +1,6 @@
-SciNetX Source-Available License (Academic & Nonprofit) v1.0
+SciNetX Source-Available License (Academic, Nonprofit & Individual Non-Commercial) v1.0
 
-Copyright (c) 2026 Michael David
+Copyright (c) 2026 Michael A. David, PhD and University of Colorado Anschutz
 
 This license is not an OSI “open source” license. It grants limited rights to
 use the SciNetX software under the terms below.
@@ -13,32 +13,43 @@ use the SciNetX software under the terms below.
      this license.
    - “Academic/Nonprofit Organization” means an accredited educational
      institution or a legally recognized nonprofit organization.
+   - “Individual Non-Commercial Use” means use by an individual for personal
+     learning, independent research, scholarship, teaching, or other
+     non-commercial purposes, provided the use is not by or for a for-profit
+     entity and is not connected to paid consulting, paid service delivery,
+     internal product work, or other activity intended for commercial
+     advantage or monetary compensation.
    - “Commercial Use” means use of the Software (or any derivative) by or for a
      for-profit entity, or in connection with any activity intended for or
      directed toward commercial advantage or monetary compensation, including
      offering the Software as a hosted or managed service to third parties.
 
-2) License grant (Academic/Nonprofit; non-commercial)
+2) License grant (Academic/Nonprofit or Individual Non-Commercial)
    Subject to the terms of this license, Licensor grants You a non-exclusive,
    non-transferable, non-sublicensable, revocable license to:
    - use and run the Software; and
-   - copy and modify the Software,
+   - access, review, and inspect the source code of the Software for
+     transparency, security review, reproducibility, and internal evaluation,
    solely for internal research, education, or other non-commercial purposes
-   of an Academic/Nonprofit Organization.
+   of an Academic/Nonprofit Organization, or for Individual Non-Commercial Use.
 
 3) Conditions
    You must:
-   - retain all copyright and license notices in any copies or modifications;
-   - include a copy of this license with any permitted distribution; and
-   - ensure anyone who receives the Software from You complies with these terms.
+   - retain all copyright and license notices in any permitted copy; and
+   - comply with all restrictions and conditions in this license.
 
 4) Restrictions
    You may not:
    - use the Software for Commercial Use;
+   - modify, adapt, translate, create derivative works from, or incorporate the
+     Software or its code into any other software, workflow, or service;
    - distribute the Software publicly (including posting a public fork, public
      package repository, or public container registry); or
    - sublicense, sell, rent, lease, or otherwise provide the Software to third
-     parties except as explicitly permitted in Section 2 and Section 3.
+     parties; or
+   - reverse engineer, decompile, or disassemble any distributed binary form of
+     the Software, except to the extent such a restriction is prohibited by
+     applicable law.
 
    No trademark rights are granted. “SciNetX” and related marks remain the
    property of the Licensor.

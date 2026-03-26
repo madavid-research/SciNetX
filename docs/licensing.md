@@ -2,8 +2,8 @@
 
 SciNetX is available through a licensed access model. This page is a short public summary.
 
-## Academic/nonprofit (non-commercial)
-Academic and nonprofit non-commercial use is covered by the SciNetX academic/nonprofit license.
+## Academic, nonprofit, and individual non-commercial
+Academic, nonprofit, and individual non-commercial use is covered by the SciNetX source-available license.
 
 ## Commercial
 Commercial use requires a separate commercial agreement.
@@ -16,5 +16,5 @@ Access, onboarding, and licensed delivery are available through [scinetx.com](ht
 For access requests, see [../REQUEST_ACCESS.md](../REQUEST_ACCESS.md).
 
 ## Full license text
-- Academic/nonprofit non-commercial: [../LICENSE](../LICENSE)
+- Academic, nonprofit, and individual non-commercial: [../LICENSE](../LICENSE)
 - Commercial (overview): [../LICENSE_COMMERCIAL.md](../LICENSE_COMMERCIAL.md)

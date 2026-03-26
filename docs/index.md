@@ -30,9 +30,6 @@ This repository is the stable public record for SciNetX. It is the long-term pub
 - See what SciNetX includes: [what_you_get.md](what_you_get.md)
 - Review the results package reference: [output_schema.md](output_schema.md)
 - Review requirements and compatibility: [requirements.md](requirements.md), [compatibility.md](compatibility.md)
-- Stable public record: [madavid-research/SciNetX](https://github.com/madavid-research/SciNetX)
-- Request access and inquiries: [scinetx.com](https://scinetx.com)
-- Licensed access: [scinetx.com](https://scinetx.com)
 - Work with SciNetX: [../WORK_WITH_SCINETX.md](../WORK_WITH_SCINETX.md)
 
 ## Workflow at a glance
@@ -40,13 +37,6 @@ This repository is the stable public record for SciNetX. It is the long-term pub
 2. Receive an organized results package with tables, figures, network views, and summaries.
 3. Open the SciNetX interface and load that results package.
 4. Explore results and export shareable outputs.
-
-## Choose your path
-- **Who it is for**: See whether SciNetX fits your role, team, or organization. [who_its_for.md](who_its_for.md)
-- **Evaluating SciNetX**: Start with the workflow and delivery overview. [what_you_get.md](what_you_get.md)
-- **Requesting access**: Use the website for current contact, access, and licensing details. [scinetx.com](https://scinetx.com)
-- **Stable reference**: Use this GitHub repository as the durable public reference. [madavid-research/SciNetX](https://github.com/madavid-research/SciNetX)
-- **Licensed access**: Use the current application routes on [scinetx.com](https://scinetx.com) for onboarding and release access.
 
 ## What you can evaluate here
 
@@ -68,20 +58,19 @@ This repository is the stable public record for SciNetX. It is the long-term pub
 - Versioning and build identifiers: [versioning.md](versioning.md)
 
 ### Support and governance
-- Contact: [scinetx.com](https://scinetx.com)
 - Support details: [../SUPPORT.md](../SUPPORT.md)
 - Security policy: [../SECURITY.md](../SECURITY.md)
 - Redaction guide: [redaction_guide.md](redaction_guide.md)
 - Governance: [governance.md](governance.md)
 
 ## Trust
-- **Manuscript under review**: SciNetX `v1.0.0` is described in a manuscript currently under review at *Bone Reports*, with paper materials hosted in the publication repository.
+- **Manuscript under review**: SciNetX `v1.0.0` is described in a manuscript currently under review, with paper materials hosted in the publication repository.
 - **Clear website path**: Use [scinetx.com](https://scinetx.com) for current information, inquiries, access, consulting, onboarding, and licensed application delivery.
 - **Stable public reference**: Use this GitHub repository as the long-term public reference in papers, citations, and publication materials.
 
 ## Contact paths
 - **Access, consulting, and licensing**: Use the website for fit, inquiries, access, licensing, and public contact details. [scinetx.com](https://scinetx.com)
-- **Publication and citation**: Start here for the paper launch, software citation, and public publication materials. [publication.md](publication.md)
+- **Publication and citation**: Start here for software citation and public publication materials. [publication.md](publication.md)
 - **Support and reporting**: Use the support page for bug reports, general questions, and security reporting. [../SUPPORT.md](../SUPPORT.md)
 
 ## What is not included here

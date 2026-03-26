@@ -15,7 +15,7 @@ rights (depending on the agreement):
 - Rights to create and use derivative works for commercial purposes.
 
 ## Next steps
-- For academic/nonprofit non-commercial use: follow `LICENSE`.
+- For academic, nonprofit, or individual non-commercial use: follow `LICENSE`.
 - For any commercial use: contact the Licensor to obtain a Commercial License.
 
 ## Contact

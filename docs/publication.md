@@ -1,6 +1,6 @@
 # Publication
 
-SciNetX `v1.0.0` is described in a manuscript currently under review at *Bone Reports*. This GitHub repository is the stable public record for the software and publication materials, while the current website is [scinetx.com](https://scinetx.com).
+SciNetX `v1.0.0` is described in a manuscript currently under review. This GitHub repository is the stable public record for the software and publication materials, while the current website is [scinetx.com](https://scinetx.com).
 
 ## Paper repository
 The paper repository is:
@@ -10,7 +10,7 @@ The paper repository is:
 This is the intended home for the paper itself, software citation context, and example materials that accompany the publication.
 
 ## Associated manuscript
-David, M. A., Williams, K. G., Constantine, E. P., Matthias, J., Ferguson, V. L., & Adams, D. J. (2026). Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT. Manuscript currently under review at *Bone Reports*.
+David, M. A., Williams, K. G., Constantine, E. P., Matthias, J., Ferguson, V. L., & Adams, D. J. (2026). Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT. Manuscript currently under review.
 
 ## How to cite SciNetX
 - Cite the manuscript above when appropriate for your review or submission context

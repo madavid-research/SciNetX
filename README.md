@@ -22,18 +22,18 @@ SciNetX public materials in this repository are maintained by Michael A. David, 
 - Commercial rights are available only through a separate agreement.
 
 ## How to cite SciNetX
-> SciNetX is described in a manuscript currently under review at *Bone Reports*: *Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT*. Include the SciNetX RRID (`RRID:SCR_028186`), and use this repository or the Zenodo record when a stable software reference is needed.
+> SciNetX is described in a manuscript currently under review: *Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT*. Include the SciNetX RRID (`RRID:SCR_028186`), and use this repository or the Zenodo record when a stable software reference is needed.
 
 Associated manuscript:
 
-David, M. A., Williams, K. G., Constantine, E. P., Matthias, J., Ferguson, V. L., & Adams, D. J. (2026). *Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT*. Manuscript under review at *Bone Reports*.
+David, M. A., Williams, K. G., Constantine, E. P., Matthias, J., Ferguson, V. L., & Adams, D. J. (2026). *Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT*. Manuscript under review.
 
 Current identifier status:
 
 - Zenodo DOI: placeholder until assigned (`10.5281/zenodo.XXXXXXX`)
 - RRID: assigned (`RRID:SCR_028186`)
 - Paper DOI: pending
-- Manuscript status: currently under review at *Bone Reports*
+- Manuscript status: currently under review
 - Stable public software/publication record: [madavid-research/SciNetX](https://github.com/madavid-research/SciNetX)
 
 ## Current public release
@@ -55,7 +55,7 @@ Current identifier status:
 
 ## Licensing at a glance
 - Licensed access model.
-- Academic/nonprofit non-commercial use: covered by the academic/nonprofit license.
+- Academic, nonprofit, and individual non-commercial use: covered by the source-available license.
 - Commercial use: requires a separate agreement.
 See [docs/licensing.md](docs/licensing.md), [LICENSE](LICENSE), [LICENSE_COMMERCIAL.md](LICENSE_COMMERCIAL.md), and [scinetx.com](https://scinetx.com).
 

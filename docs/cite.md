@@ -1,6 +1,6 @@
 # Cite SciNetX
 
-If you use SciNetX in academic work, cite the software record and include RRID `RRID:SCR_028186`. The associated manuscript is currently under review at *Bone Reports*. Use the repository or Zenodo record as the stable public software record when needed.
+If you use SciNetX in academic work, cite the software record and include RRID `RRID:SCR_028186`. The associated manuscript is currently under review. Use the repository or Zenodo record as the stable public software record when needed.
 
 ## Current public software release
 - Name: SciNetX
@@ -10,7 +10,7 @@ If you use SciNetX in academic work, cite the software record and include RRID `
 - Website: [scinetx.com](https://scinetx.com)
 
 ## Associated manuscript
-David, M. A., Williams, K. G., Constantine, E. P., Matthias, J., Ferguson, V. L., & Adams, D. J. (2026). Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT. Manuscript currently under review at *Bone Reports*.
+David, M. A., Williams, K. G., Constantine, E. P., Matthias, J., Ferguson, V. L., & Adams, D. J. (2026). Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT. Manuscript currently under review.
 
 ## Recommended software citation
 Michael A. David. *SciNetX* (Version 1.0.0) [Software]. 2026. [https://github.com/madavid-research/SciNetX](https://github.com/madavid-research/SciNetX)
@@ -38,7 +38,7 @@ For durable software and publication references, use this GitHub repository:
 [madavid-research/SciNetX](https://github.com/madavid-research/SciNetX)
 
 ## Paper citation
-SciNetX `v1.0.0` is described in the manuscript listed above, which is currently under review at *Bone Reports*.
+SciNetX `v1.0.0` is described in the manuscript listed above, which is currently under review.
 
 The paper repository for publication materials and examples is:
 [2026-BoneRep-MLforBoneImaging](https://github.com/madavid-research/2026-BoneRep-MLforBoneImaging)
