@@ -16,13 +16,12 @@ This GitHub repository is the stable public software and publication record for 
 SciNetX public materials in this repository are maintained by Michael A. David, PhD.
 
 ## Repository scope
-- Public record documentation is included in this repository.
-- Public-record tooling is included in this repository.
+- Public record documentation and citation metadata are included in this repository.
 - SciNetX application source is distributed separately through gated licensed access pathways.
 - Commercial rights are available only through a separate agreement.
 
 ## How to cite SciNetX
-> SciNetX is described in a manuscript currently under review: *Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT*. Include the SciNetX RRID (`RRID:SCR_028186`), and use this repository or the Zenodo record when a stable software reference is needed.
+> SciNetX is described in a manuscript currently under review: *Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT*. Include the SciNetX RRID (`RRID:SCR_028186`), and use this repository as the stable software reference until the official Zenodo record is available.
 
 Associated manuscript:
 
@@ -48,10 +47,9 @@ Current identifier status:
 ## Start here
 - Overview and docs: [docs/index.md](docs/index.md)
 - Citation and publication: [docs/cite.md](docs/cite.md), [docs/publication.md](docs/publication.md), [SOFTWARE_AVAILABILITY.md](SOFTWARE_AVAILABILITY.md)
-- Access and collaboration: [scinetx.com](https://scinetx.com), [WORK_WITH_SCINETX.md](WORK_WITH_SCINETX.md)
+- Private access and collaboration inquiries: [scinetx.com](https://scinetx.com), [WORK_WITH_SCINETX.md](WORK_WITH_SCINETX.md)
 - Paper materials: [2026-BoneRep-MLforBoneImaging](https://github.com/madavid-research/2026-BoneRep-MLforBoneImaging)
 - Support and security: [SUPPORT.md](SUPPORT.md), [SECURITY.md](SECURITY.md)
-- Public record maintenance notes: [public_records/README.md](public_records/README.md)
 
 ## Licensing at a glance
 - Licensed access model.

@@ -2,7 +2,7 @@
 
 SciNetX is available through a licensed access model.
 
-This repository is the stable public record for SciNetX. For current access, onboarding, and licensing, use [scinetx.com](https://scinetx.com).
+This repository is the stable public record for SciNetX. For current private access, onboarding, and licensing inquiries, use [scinetx.com](https://scinetx.com).
 
 ## Start here
 - Access and onboarding: [scinetx.com](https://scinetx.com)

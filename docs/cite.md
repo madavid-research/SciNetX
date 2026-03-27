@@ -1,6 +1,6 @@
 # Cite SciNetX
 
-If you use SciNetX in academic work, cite the software record and include RRID `RRID:SCR_028186`. The associated manuscript is currently under review. Use the repository or Zenodo record as the stable public software record when needed.
+If you use SciNetX in academic work, cite the software record and include RRID `RRID:SCR_028186`. The associated manuscript is currently under review. Use this repository as the stable public software record until the official Zenodo record is available.
 
 ## Current public software release
 - Name: SciNetX
@@ -20,12 +20,10 @@ Michael A. David. *SciNetX* (Version 1.0.0) [Software]. 2026. [https://github.co
 - Cite the manuscript above when appropriate for your review or submission context
 - Include the SciNetX RRID: `RRID:SCR_028186`
 - Use the software citation above when a software-specific citation is needed
-- Use the GitHub repository or Zenodo record as the stable software/public record when a repository or archival reference is requested
+- Use the GitHub repository as the stable software/public record until the official Zenodo record is available
 
 ## Citation metadata
 Machine-readable citation metadata is available in [CITATION.cff](../CITATION.cff).
-
-Prepared Zenodo and RRID public-record materials are available in [../public_records/README.md](../public_records/README.md).
 
 ## Badge guidance
 - Zenodo: use the official Zenodo DOI badge once the software DOI is assigned

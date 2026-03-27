@@ -10,7 +10,6 @@ This repository is the stable public record for SciNetX. It is the long-term pub
 
 - Stable public record: [madavid-research/SciNetX](https://github.com/madavid-research/SciNetX)
 - Current website and inquiries: [scinetx.com](https://scinetx.com)
-- Licensed application access: [scinetx.com](https://scinetx.com)
 - Paper repository: [2026-BoneRep-MLforBoneImaging](https://github.com/madavid-research/2026-BoneRep-MLforBoneImaging)
 
 ## Why SciNetX
@@ -24,7 +23,6 @@ This repository is the stable public record for SciNetX. It is the long-term pub
 - **Shared analysis delivery**: Give teams a consistent way to open results, move through findings, and export outputs without rebuilding the same work each time.
 
 ## Start here
-- Current website and inquiries: [scinetx.com](https://scinetx.com)
 - See who SciNetX is for: [who_its_for.md](who_its_for.md)
 - Understand the workflow: [how_it_works.md](how_it_works.md)
 - See what SciNetX includes: [what_you_get.md](what_you_get.md)
@@ -57,11 +55,10 @@ This repository is the stable public record for SciNetX. It is the long-term pub
 - Releases and licensed delivery: [releases.md](releases.md)
 - Versioning and build identifiers: [versioning.md](versioning.md)
 
-### Support and governance
+### Support and security
 - Support details: [../SUPPORT.md](../SUPPORT.md)
 - Security policy: [../SECURITY.md](../SECURITY.md)
 - Redaction guide: [redaction_guide.md](redaction_guide.md)
-- Governance: [governance.md](governance.md)
 
 ## Trust
 - **Manuscript under review**: SciNetX `v1.0.0` is described in a manuscript currently under review, with paper materials hosted in the publication repository.
@@ -71,7 +68,7 @@ This repository is the stable public record for SciNetX. It is the long-term pub
 ## Contact paths
 - **Access, consulting, and licensing**: Use the website for fit, inquiries, access, licensing, and public contact details. [scinetx.com](https://scinetx.com)
 - **Publication and citation**: Start here for software citation and public publication materials. [publication.md](publication.md)
-- **Support and reporting**: Use the support page for bug reports, general questions, and security reporting. [../SUPPORT.md](../SUPPORT.md)
+- **Support and reporting**: Use the support page for support, suggestions, and security reporting. [../SUPPORT.md](../SUPPORT.md)
 
 ## What is not included here
 - The full SciNetX application source

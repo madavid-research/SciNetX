@@ -1,34 +1,24 @@
 # Support
 
-Use the support path that matches your situation. Do not include sensitive or restricted data in public issues.
+This repository is maintainer-managed. Support requests, suggestions, and software discussions should start privately through [scinetx.com](https://scinetx.com), not through public GitHub posts.
 
-Use GitHub issues for public-safe bug reports and general questions. Use [scinetx.com](https://scinetx.com) for access, consulting, licensing, and partnership inquiries.
-
-## Access requests
-- Do not use public GitHub issues for access requests.
+## Contact paths
 - Start with [REQUEST_ACCESS.md](REQUEST_ACCESS.md).
-- Use [scinetx.com](https://scinetx.com) for current access, onboarding, and licensing pathways.
-
-## Bug reports
-- Public bug report form: https://github.com/madavid-research/SciNetX/issues/new?template=bug_report.yml
-- Redaction guidance: [docs/redaction_guide.md](docs/redaction_guide.md)
-- Known issues: [docs/known_issues.md](docs/known_issues.md)
-- Delivery-specific support is available through [scinetx.com](https://scinetx.com).
+- Use [scinetx.com](https://scinetx.com) for private access, onboarding, licensing, support, collaboration, suggestions, and software improvement requests.
+- If an idea or contribution is incorporated into the software or public documentation, credit may be attributed where appropriate.
 
 ## Security reports
-- Do not file public issues for security reports.
 - Do not post credentials, tokens, internal route details, or restricted data in public channels.
 - Email: michael.david@cuanschutz.edu
 - See [SECURITY.md](SECURITY.md)
 
-## General questions
-- Use the GitHub issue form: https://github.com/madavid-research/SciNetX/issues/new?template=general_inquiry.yml
-- Or email michael.david@cuanschutz.edu
+## Public-safe materials
+- Redaction guidance: [docs/redaction_guide.md](docs/redaction_guide.md)
+- Publication page: [docs/publication.md](docs/publication.md)
+- Paper repository: https://github.com/madavid-research/2026-BoneRep-MLforBoneImaging
 
 ## Public links
 - Stable public record: https://github.com/madavid-research/SciNetX
 - Website and inquiries: https://scinetx.com
-- Publication page: [docs/publication.md](docs/publication.md)
-- Paper repository: https://github.com/madavid-research/2026-BoneRep-MLforBoneImaging
 
 Typical response time: 3–5 business days.

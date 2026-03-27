@@ -4,7 +4,7 @@
 No. SciNetX is offered through a licensed access model. Releases are available through [scinetx.com](https://scinetx.com), and source snapshots may be provided under the applicable license.
 
 ## How do I get access?
-Use [scinetx.com](https://scinetx.com). Public access requests are handled there rather than through GitHub issues.
+Use [scinetx.com](https://scinetx.com). Access requests and other inquiries are handled privately there rather than through GitHub.
 
 ## What should I link in a paper or public reference?
 Use this GitHub repository as the stable public record. Use the project website for the current public access path.

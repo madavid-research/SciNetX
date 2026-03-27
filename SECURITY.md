@@ -8,11 +8,11 @@ This repository contains the stable public software and publication record for S
 Security reports should focus on issues affecting distributed artifacts, access controls, packaging integrity, credentials, or security-sensitive behavior in licensed SciNetX deliveries.
 
 ## Reporting
-Do not file public issues or discussions for security matters.
+Do not post security matters publicly in GitHub or other public channels.
 
 Email: michael.david@cuanschutz.edu
 
-For ordinary non-sensitive bugs or documentation issues, use the standard GitHub issue forms instead of the private security contact path.
+For ordinary non-sensitive support questions, documentation suggestions, or software requests, use the private contact pathways at [scinetx.com](https://scinetx.com) instead of the private security contact path.
 
 Include:
 - affected artifact type and version/build identifier

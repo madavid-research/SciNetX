@@ -1,6 +1,6 @@
 # Redaction & privacy guide
 
-When filing a public issue, assume anything posted can be indexed and copied.
+When sharing information publicly, assume anything posted can be indexed and copied.
 Please redact sensitive or restricted content before posting screenshots, logs,
 or example files.
 
