@@ -17,7 +17,7 @@ contact:
     website: "https://scinetx.com"
     orcid: "https://orcid.org/0009-0006-5637-2403"
 publisher: "Michael A. David"
-license: "LicenseRef-SciNetX-Source-Available"
+license: "LicenseRef-SciNetX-Nonprofit-Or-Commercial"
 repository-code: "https://github.com/madavid-research/SciNetX"
 repository-artifact: "https://github.com/madavid-research/SciNetX/releases/tag/v1.0.0"
 url: "https://scinetx.com"

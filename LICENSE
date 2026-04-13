@@ -1,75 +1,21 @@
-SciNetX Source-Available License (Academic, Nonprofit & Individual Non-Commercial) v1.0
+SciNetX License Notice (Informational)
 
-Copyright © 2026 Regents of the University of Colorado. Author: Michael A. David, PhD.
+Copyright © 2026 Regents of the University of Colorado.
+Author: Michael A. David, PhD.
 
-This license is not an OSI “open source” license. It grants limited rights to
-use the SciNetX software under the terms below.
+SciNetX is offered under two license types:
 
-1) Definitions
-   - “Software” means the SciNetX source code and associated documentation made
-     available with this license.
-   - “Licensor” means the copyright holder(s) of the Software.
-   - “You” means the individual or legal entity exercising permissions under
-     this license.
-   - “Academic/Nonprofit Organization” means an accredited educational
-     institution or a legally recognized nonprofit organization.
-   - “Individual Non-Commercial Use” means use by an individual for personal
-     learning, independent research, scholarship, teaching, or other
-     non-commercial purposes, provided the use is not by or for a for-profit
-     entity and is not connected to paid consulting, paid service delivery,
-     internal product work, or other activity intended for commercial
-     advantage or monetary compensation.
-   - “Commercial Use” means use of the Software (or any derivative) by or for a
-     for-profit entity, or in connection with any activity intended for or
-     directed toward commercial advantage or monetary compensation, including
-     offering the Software as a hosted or managed service to third parties.
+1) Nonprofit License
+   For academic and nonprofit use cases.
 
-2) License grant (Academic/Nonprofit or Individual Non-Commercial)
-   Subject to the terms of this license, Licensor grants You a non-exclusive,
-   non-transferable, non-sublicensable, revocable license to:
-   - use and run the Software; and
-   - access, review, and inspect the source code of the Software for
-     transparency, security review, reproducibility, and internal evaluation,
-   solely for internal research, education, or other non-commercial purposes
-   of an Academic/Nonprofit Organization, or for Individual Non-Commercial Use.
+2) Commercial License
+   For commercial and for-profit use cases.
 
-3) Conditions
-   You must:
-   - retain all copyright and license notices in any permitted copy; and
-   - comply with all restrictions and conditions in this license.
+SciNetX source code is available under either license path after the
+applicable license is obtained.
 
-4) Restrictions
-   You may not:
-   - use the Software for Commercial Use;
-   - modify, adapt, translate, create derivative works from, or incorporate the
-     Software or its code into any other software, workflow, or service;
-   - distribute the Software publicly (including posting a public fork, public
-     package repository, or public container registry); or
-   - sublicense, sell, rent, lease, or otherwise provide the Software to third
-     parties; or
-   - reverse engineer, decompile, or disassemble any distributed binary form of
-     the Software, except to the extent such a restriction is prohibited by
-     applicable law.
+This file is informational only and does not by itself grant rights.
 
-   No trademark rights are granted. “SciNetX” and related marks remain the
-   property of the Licensor.
-
-5) Commercial licensing
-   Commercial Use requires a separate commercial license from the Licensor.
-   See `LICENSE_COMMERCIAL.md` for an overview and contact information.
-
-6) Termination
-   This license automatically terminates if You violate its terms. Upon
-   termination, You must stop using the Software and delete all copies in Your
-   possession or control.
-
-7) Disclaimer of warranty
-   THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
-
-8) Limitation of liability
-   TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL LICENSOR BE LIABLE
-   FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
-   TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE
-   OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+For licensing inquiries and access:
+- https://scinetx.com
+- michael.david@cuanschutz.edu

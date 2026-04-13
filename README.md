@@ -4,7 +4,7 @@
 [![RRID](https://img.shields.io/badge/RRID-SCR__028186-0A7A5C)](https://scicrunch.org/resolver/RRID:SCR_028186)
 [![Stable Record](https://img.shields.io/badge/Stable%20Record-GitHub-24292f)](https://github.com/madavid-research/SciNetX)
 [![Version](https://img.shields.io/badge/Version-v1.0.0-123047)](https://github.com/madavid-research/SciNetX)
-[![License](https://img.shields.io/badge/License-Source--Available%20%28Non--Commercial%29-b45309)](LICENSE)
+[![License](https://img.shields.io/badge/License-Nonprofit%20%7C%20Commercial-b45309)](LICENSE)
 [![Paper Repo](https://img.shields.io/badge/Paper%20Repo-2026--BoneRep--MLforBoneImaging-0e7490)](https://github.com/madavid-research/2026-BoneRep-MLforBoneImaging)
 
 SciNetX is a bibliometric and network analysis platform offered through a licensed access model.
@@ -55,8 +55,8 @@ Current identifier status:
 ## Licensing at a glance
 - Licensed access model.
 - Copyright © 2026 Regents of the University of Colorado. Author: Michael A. David, PhD.
-- Academic, nonprofit, and individual non-commercial use: covered by the source-available license.
-- Commercial use: requires a separate agreement.
+- Two license types: Nonprofit License and Commercial License.
+- Source is available under either license path once the applicable license is obtained.
 - This README is a public summary of license type and access model.
 See [docs/licensing.md](docs/licensing.md), [LICENSE](LICENSE), [LICENSE_COMMERCIAL.md](LICENSE_COMMERCIAL.md), and [scinetx.com](https://scinetx.com).
 

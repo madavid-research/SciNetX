@@ -1,24 +1,21 @@
-# SciNetX Commercial License (overview)
+# SciNetX Commercial License Notice (Informational)
 
-This file is informational. It does not grant any rights by itself.
+Copyright © 2026 Regents of the University of Colorado.
+Author: Michael A. David, PhD.
 
-Copyright © 2026 Regents of the University of Colorado. Author: Michael A. David, PhD.
+SciNetX is offered under two license types:
+- Nonprofit License
+- Commercial License
 
-Commercial rights to SciNetX are available under a separate written agreement
-from the Licensor (“Commercial License”). If a Commercial License has not been
-obtained, SciNetX may not be used for Commercial Use as defined in `LICENSE`.
+This file describes the commercial license path.
+SciNetX source code is available under either license path after the
+applicable license is obtained.
 
-## Typical commercial grant (summary)
-Under a Commercial License, the Licensor may grant one or more of the following
-rights (depending on the agreement):
-- Commercial use (internal and external).
-- Distribution of binaries and/or containers to customers.
-- Offering SciNetX as a hosted/managed service.
-- Rights to create and use derivative works for commercial purposes.
+Commercial and for-profit use requires an executed Commercial License from the
+Licensor.
 
-## Next steps
-- For academic, nonprofit, or individual non-commercial use: follow `LICENSE`.
-- For any commercial use: contact the Licensor to obtain a Commercial License.
+This file is informational only and does not by itself grant rights.
 
 ## Contact
-- Email: michael.david@cuanschutz.edu
+- https://scinetx.com
+- michael.david@cuanschutz.edu
