@@ -22,18 +22,12 @@ SciNetX public materials in this repository are maintained by Michael A. David, 
 - GitHub materials describe the license model; governing legal terms are provided with licensed distributions and/or executed commercial agreements.
 
 ## How to cite SciNetX
-> SciNetX is described in the following publication: David, M. A., Williams, K. G., Constantine, E. P., Matthias, J., Ferguson, V. L., & Adams, D. J. (2026). Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT. Bone Reports. DOI: https://doi.org/10.1016/j.bonr.2026.101911. RRID: SCR_028186.
+Use the software record and associated publication:
 
-Associated publication:
+David, M. A., Williams, K. G., Constantine, E. P., Matthias, J., Ferguson, V. L., & Adams, D. J. (2026). Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT. *Bone Reports*. DOI: https://doi.org/10.1016/j.bonr.2026.101911. RRID: SCR_028186.
 
-David, M. A., Williams, K. G., Constantine, E. P., Matthias, J., Ferguson, V. L., & Adams, D. J. (2026). Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT. Bone Reports. DOI: https://doi.org/10.1016/j.bonr.2026.101911. RRID: SCR_028186.
-
-Publication status: published in *Bone Reports* (not under review).
-
-Current identifier status:
-
-- Paper DOI: assigned (`10.1016/j.bonr.2026.101911`)
-- RRID: assigned (`RRID:SCR_028186`)
+- DOI: `10.1016/j.bonr.2026.101911`
+- RRID: `RRID:SCR_028186`
 - Stable public software/publication record: [madavid-research/SciNetX](https://github.com/madavid-research/SciNetX)
 
 ## Current public release
