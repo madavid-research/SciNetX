@@ -1,10 +1,10 @@
 # SciNetX
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.XXXXXXX-blue)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![Paper DOI](https://img.shields.io/badge/Paper%20DOI-10.1016%2Fj.bonr.2026.101911-blue)](https://doi.org/10.1016/j.bonr.2026.101911)
 [![RRID](https://img.shields.io/badge/RRID-SCR__028186-0A7A5C)](https://scicrunch.org/resolver/RRID:SCR_028186)
-[![Paper DOI](https://img.shields.io/badge/Paper%20DOI-pending-lightgrey)](https://github.com/madavid-research/2026-BoneRep-MLforBoneImaging)
 [![Stable Record](https://img.shields.io/badge/Stable%20Record-GitHub-24292f)](https://github.com/madavid-research/SciNetX)
 [![Version](https://img.shields.io/badge/Version-v1.0.0-123047)](https://github.com/madavid-research/SciNetX)
+[![License](https://img.shields.io/badge/License-Source--Available%20%28Non--Commercial%29-b45309)](LICENSE)
 [![Paper Repo](https://img.shields.io/badge/Paper%20Repo-2026--BoneRep--MLforBoneImaging-0e7490)](https://github.com/madavid-research/2026-BoneRep-MLforBoneImaging)
 
 SciNetX is a bibliometric and network analysis platform offered through a licensed access model.
@@ -19,20 +19,21 @@ SciNetX public materials in this repository are maintained by Michael A. David, 
 - Public record documentation and citation metadata are included in this repository.
 - SciNetX application source is distributed separately through gated licensed access pathways.
 - Commercial rights are available only through a separate agreement.
+- GitHub materials describe the license model; governing legal terms are provided with licensed distributions and/or executed commercial agreements.
 
 ## How to cite SciNetX
-> SciNetX is described in a manuscript currently under review: *Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT*. Include the SciNetX RRID (`RRID:SCR_028186`), and use this repository as the stable software reference until the official Zenodo record is available.
+> SciNetX is described in the following publication: David, M. A., Williams, K. G., Constantine, E. P., Matthias, J., Ferguson, V. L., & Adams, D. J. (2026). Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT. Bone Reports. DOI: https://doi.org/10.1016/j.bonr.2026.101911. RRID: SCR_028186.
 
-Associated manuscript:
+Associated publication:
 
-David, M. A., Williams, K. G., Constantine, E. P., Matthias, J., Ferguson, V. L., & Adams, D. J. (2026). *Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT*. Manuscript under review.
+David, M. A., Williams, K. G., Constantine, E. P., Matthias, J., Ferguson, V. L., & Adams, D. J. (2026). Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT. Bone Reports. DOI: https://doi.org/10.1016/j.bonr.2026.101911. RRID: SCR_028186.
+
+Publication status: published in *Bone Reports* (not under review).
 
 Current identifier status:
 
-- Zenodo DOI: placeholder until assigned (`10.5281/zenodo.XXXXXXX`)
+- Paper DOI: assigned (`10.1016/j.bonr.2026.101911`)
 - RRID: assigned (`RRID:SCR_028186`)
-- Paper DOI: pending
-- Manuscript status: currently under review
 - Stable public software/publication record: [madavid-research/SciNetX](https://github.com/madavid-research/SciNetX)
 
 ## Current public release
@@ -53,8 +54,10 @@ Current identifier status:
 
 ## Licensing at a glance
 - Licensed access model.
+- Copyright © 2026 Regents of the University of Colorado. Author: Michael A. David, PhD.
 - Academic, nonprofit, and individual non-commercial use: covered by the source-available license.
 - Commercial use: requires a separate agreement.
+- This README is a public summary of license type and access model.
 See [docs/licensing.md](docs/licensing.md), [LICENSE](LICENSE), [LICENSE_COMMERCIAL.md](LICENSE_COMMERCIAL.md), and [scinetx.com](https://scinetx.com).
 
 ## How to obtain access

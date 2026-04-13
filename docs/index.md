@@ -61,7 +61,7 @@ This repository is the stable public record for SciNetX. It is the long-term pub
 - Redaction guide: [redaction_guide.md](redaction_guide.md)
 
 ## Trust
-- **Manuscript under review**: SciNetX `v1.0.0` is described in a manuscript currently under review, with paper materials hosted in the publication repository.
+- **Associated publication**: SciNetX `v1.0.0` is described in Bone Reports (DOI: [10.1016/j.bonr.2026.101911](https://doi.org/10.1016/j.bonr.2026.101911), RRID: `SCR_028186`), with paper materials hosted in the publication repository.
 - **Clear website path**: Use [scinetx.com](https://scinetx.com) for current information, inquiries, access, consulting, onboarding, and licensed application delivery.
 - **Stable public reference**: Use this GitHub repository as the long-term public reference in papers, citations, and publication materials.
 

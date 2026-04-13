@@ -1,6 +1,6 @@
 # SciNetX v1.0.0
 
-SciNetX `v1.0.0` is the public software record aligned with the associated manuscript, which is currently under review.
+SciNetX `v1.0.0` is the public software record aligned with the associated publication in Bone Reports.
 
 ## Public release highlights
 - Stable public GitHub record for software, citation, and publication information
@@ -11,7 +11,7 @@ SciNetX `v1.0.0` is the public software record aligned with the associated manus
 
 ## Citation
 - Cite the software record
-- Reference the associated manuscript as under review when appropriate
+- Associated publication: David, M. A., Williams, K. G., Constantine, E. P., Matthias, J., Ferguson, V. L., & Adams, D. J. (2026). Demystifying Machine Learning Approaches in Digital Bone Imaging using MicroCT and HRpQCT. Bone Reports. DOI: https://doi.org/10.1016/j.bonr.2026.101911. RRID: SCR_028186.
 - Include the SciNetX RRID: `RRID:SCR_028186`
 - Use the software citation record in [CITATION.cff](./CITATION.cff) when a software-specific citation is needed
 
